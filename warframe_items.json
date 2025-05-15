@@ -2,7 +2,7 @@
   {
     "name": "Ember",
     "category": "Warframes",
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/38/Ember.png/revision/latest?cb=20221110215829",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/38/Ember.png",
     "buildCreditCost": "25000",
     "blueprintSource": "Bought from Market",
     "blueprintCost": {
@@ -47,7 +47,7 @@
   {
     "name": "Excalibur",
     "category": "Warframes",
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/fa/Excalibur.png/revision/latest?cb=20221110215740",
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fa/Excalibur.png",
     "buildCreditCost": "25000",
     "blueprintSource": "Bought from Market",
     "blueprintCost": {
@@ -92,7 +92,7 @@
   {
     "name": "Loki",
     "category": "Warframes",
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/fe/Loki.png/revision/latest?cb=20221110215142",
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fe/Loki.png",
     "buildCreditCost": "25000",
     "blueprintSource": "Bought from Market",
     "blueprintCost": {
@@ -137,7 +137,7 @@
   {
     "name": "Trinity",
     "category": "Warframes",
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/9c/Trinity.png/revision/latest?cb=20221110214138",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/9c/Trinity.png",
     "buildCreditCost": "25000",
     "blueprintSource": "Bought from Market",
     "blueprintCost": {
@@ -702,7 +702,7 @@
   {
     "name": "Adramal Alloy",
     "category": "Crafting",
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/cc/AdramalAlloy.png/revision/latest?cb=20221215184412",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/cc/AdramalAlloy.png",
     "buildCreditCost": "1000",
     "blueprintSource": "Sold by Syndicate",
     "blueprintCost": {
@@ -747,7 +747,7 @@
   {
     "name": "Auroxium Alloy",
     "category": "Crafting",
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/fa/AuroxiumAlloy.png/revision/latest?cb=20221215023444",
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fa/AuroxiumAlloy.png",
     "buildCreditCost": "1000",
     "blueprintSource": "Sold by Syndicate",
     "blueprintCost": {
@@ -787,7 +787,7 @@
   {
     "name": "Axidrol Alloy",
     "category": "Crafting",
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/8e/AxidrolAlloy.png/revision/latest?cb=20221215030418",
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/8e/AxidrolAlloy.png",
     "buildCreditCost": "1000",
     "blueprintSource": "Sold by Syndicate",
     "blueprintCost": {
@@ -827,7 +827,7 @@
   {
     "name": "Cabochon Embolos",
     "category": "Crafting",
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c8/CabochonEmbolos.png/revision/latest?cb=20221215184644",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c8/CabochonEmbolos.png",
     "buildCreditCost": "1000",
     "blueprintSource": "Sold by Syndicate",
     "blueprintCost": {
@@ -857,7 +857,7 @@
   {
     "name": "Coprite Alloy",
     "category": "Crafting",
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/84/CopriteAlloy.png/revision/latest?cb=20221215023515",
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/84/CopriteAlloy.png",
     "buildCreditCost": "1000",
     "blueprintSource": "Sold by Syndicate",
     "blueprintCost": {
@@ -897,7 +897,7 @@
   {
     "name": "Devolved Namalon",
     "category": "Crafting",
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/67/DevolvedNamalon.png/revision/latest?cb=20221215184513",
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/67/DevolvedNamalon.png",
     "buildCreditCost": "1000",
     "blueprintSource": "Sold by Syndicate",
     "blueprintCost": {
@@ -942,7 +942,7 @@
   {
     "name": "Esher Devar",
     "category": "Crafting",
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/02/EsherDevar.png/revision/latest?cb=20221215023745",
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/02/EsherDevar.png",
     "buildCreditCost": "1000",
     "blueprintSource": "Sold by Syndicate",
     "blueprintCost": {
