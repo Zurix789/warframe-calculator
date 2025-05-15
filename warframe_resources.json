@@ -33,7 +33,7 @@
       "Neptune",
       "Eris"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/eb/NanoSpores.png/revision/latest?cb=20221214225636"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/eb/NanoSpores.png"
   },
   {
     "name": "Salvage",
@@ -43,7 +43,7 @@
       "Jupiter",
       "Sedna"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/40/Salvage.png/revision/latest?cb=20221214225651"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/40/Salvage.png"
   },
   {
     "name": "Carbides",
@@ -53,7 +53,7 @@
       "Sedna",
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/bb/Carbides.png/revision/latest?cb=20221214225706"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/bb/Carbides.png"
   },
   {
     "name": "Circuits",
@@ -63,7 +63,7 @@
       "Ceres",
       "Kuva Fortress"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d3/Circuits.png/revision/latest?cb=20221214225721"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d3/Circuits.png"
   },
   {
     "name": "Cryotic",
@@ -76,7 +76,7 @@
       "Neptune",
       "Pluto"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6b/Cryotic.png/revision/latest?cb=20221214225736"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6b/Cryotic.png"
   },
   {
     "name": "Cubic Diodes",
@@ -85,7 +85,7 @@
       "Europa",
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/50/CubicDiodes.png/revision/latest?cb=20221214225751"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/50/CubicDiodes.png"
   },
   {
     "name": "Hexenon",
@@ -94,7 +94,7 @@
       "Jupiter",
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c7/Hexenon.png/revision/latest?cb=20221214225806"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c7/Hexenon.png"
   },
   {
     "name": "Oxium",
@@ -106,7 +106,7 @@
       "Europa",
       "Pluto"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/1b/Oxium.png/revision/latest?cb=20221214225821"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/1b/Oxium.png"
   },
   {
     "name": "Plastids",
@@ -118,7 +118,7 @@
       "Pluto",
       "Eris"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/f7/Plastids.png/revision/latest?cb=20221214225836"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f7/Plastids.png"
   },
   {
     "name": "Polymer Bundle",
@@ -128,7 +128,7 @@
       "Venus",
       "Uranus"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/3c/PolymerBundle.png/revision/latest?cb=20221214225851"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/3c/PolymerBundle.png"
   },
   {
     "name": "Rubedo",
@@ -141,7 +141,7 @@
       "Sedna",
       "Void"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b4/Rubedo.png/revision/latest?cb=20221214225907"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b4/Rubedo.png"
   },
   {
     "name": "Argon Crystal",
@@ -149,7 +149,7 @@
     "locations": [
       "Void"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/7/7d/ArgonCrystal.png/revision/latest?cb=20221214225922"
+    "image": "https://static.wikia.nocookie.net/warframe/images/7/7d/ArgonCrystal.png"
   },
   {
     "name": "Control Module",
@@ -159,7 +159,7 @@
       "Neptune",
       "Void"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/39/ControlModule.png/revision/latest?cb=20221214225937"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/39/ControlModule.png"
   },
   {
     "name": "Gallium",
@@ -168,7 +168,7 @@
       "Mars",
       "Uranus"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/5b/Gallium.png/revision/latest?cb=20221214225952"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/5b/Gallium.png"
   },
   {
     "name": "Morphics",
@@ -180,7 +180,7 @@
       "Europa",
       "Pluto"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/44/Morphics.png/revision/latest?cb=20221214230007"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/44/Morphics.png"
   },
   {
     "name": "Neural Sensors",
@@ -189,7 +189,7 @@
       "Jupiter",
       "Kuva Fortress"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b1/NeuralSensors.png/revision/latest?cb=20221214230022"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b1/NeuralSensors.png"
   },
   {
     "name": "Neurodes",
@@ -200,7 +200,7 @@
       "Deimos",
       "Eris"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/32/Neurodes.png/revision/latest?cb=20221214230038"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/32/Neurodes.png"
   },
   {
     "name": "Orokin Cell",
@@ -210,7 +210,7 @@
       "Ceres",
       "Saturn"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/7/73/OrokinCell.png/revision/latest?cb=20221214230053"
+    "image": "https://static.wikia.nocookie.net/warframe/images/7/73/OrokinCell.png"
   },
   {
     "name": "Tellurium",
@@ -219,7 +219,7 @@
       "Uranus",
       "Neptune"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6a/Tellurium.png/revision/latest?cb=20221215002347"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6a/Tellurium.png"
   },
   {
     "name": "Antiserum Injector Fragment",
@@ -227,7 +227,7 @@
     "locations": [
       "Eris"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/f7/AntiserumInjectorFragment.png/revision/latest?cb=20221214230111"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f7/AntiserumInjectorFragment.png"
   },
   {
     "name": "Detonite Ampule",
@@ -240,7 +240,7 @@
       "Uranus",
       "Sedna"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/63/DetoniteAmpule.png/revision/latest?cb=20221214230115"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/63/DetoniteAmpule.png"
   },
   {
     "name": "Fieldron Sample",
@@ -253,7 +253,7 @@
       "Neptune",
       "Pluto"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/9d/FieldronSample.png/revision/latest?cb=20221214230134"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/9d/FieldronSample.png"
   },
   {
     "name": "Mutagen Sample",
@@ -262,7 +262,7 @@
       "Deimos",
       "Eris"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/1d/MutagenSample.png/revision/latest?cb=20221214230203"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/1d/MutagenSample.png"
   },
   {
     "name": "Pigment",
@@ -282,7 +282,7 @@
       "Void",
       "Zariman"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/13/GenericDojoColorPigment.png/revision/latest?cb=20221215185616"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/13/GenericDojoColorPigment.png"
   },
   {
     "name": "Cryptographic ALU",
@@ -292,7 +292,7 @@
       "Neptune",
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/44/CryptographicALU.png/revision/latest?cb=20221214230223"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/44/CryptographicALU.png"
   },
   {
     "name": "Nav Coordinate",
@@ -325,7 +325,7 @@
       "Höllvania",
       "Albrecht's Laboratories"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/a/a0/NavCoordinate.png/revision/latest?cb=20221214230238"
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/a0/NavCoordinate.png"
   },
   {
     "name": "Omega Isotope",
@@ -340,7 +340,7 @@
       "Pluto",
       "Eris"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c0/OmegaIsotope.png/revision/latest?cb=20221214230241"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c0/OmegaIsotope.png"
   },
   {
     "name": "Aya",
@@ -353,7 +353,7 @@
       "Cambion Drift",
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/45/Aya.png/revision/latest?cb=20221024044835"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/45/Aya.png"
   },
   {
     "name": "Ayatan Star",
@@ -386,7 +386,7 @@
       "Höllvania",
       "Albrecht's Laboratories"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/f3/AyatanCyanStar.png/revision/latest?cb=20221024054152"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f3/AyatanCyanStar.png"
   },
   {
     "name": "Javlok Capacitor",
@@ -395,7 +395,7 @@
       "Ceres",
       "Sedna"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/64/JavlokCapacitor.png/revision/latest?cb=20221214233610"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/64/JavlokCapacitor.png"
   },
   {
     "name": "Kavat Genetic Code",
@@ -403,7 +403,7 @@
     "locations": [
       "Deimos"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/94/KavatGeneticCode.png/revision/latest?cb=20221214233625"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/94/KavatGeneticCode.png"
   },
   {
     "name": "Kuva",
@@ -411,7 +411,7 @@
     "locations": [
       "Kuva Fortress"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/1c/Kuva.png/revision/latest?cb=20221214233634"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/1c/Kuva.png"
   },
   {
     "name": "Lua Thrax Plasm",
@@ -419,7 +419,7 @@
     "locations": [
       "Lua"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/ed/LuaThraxPlasm.png/revision/latest?cb=20221201000108"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/ed/LuaThraxPlasm.png"
   },
   {
     "name": "Somatic Fibers",
@@ -427,7 +427,7 @@
     "locations": [
       "Lua"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/90/SomaticFibers.png/revision/latest?cb=20190901025202"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/90/SomaticFibers.png"
   },
   {
     "name": "Spectral Debris",
@@ -442,7 +442,7 @@
       "Pluto",
       "Eris"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/39/SpectralDebris.png/revision/latest?cb=20210709142722"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/39/SpectralDebris.png"
   },
   {
     "name": "Vestigial Motes",
@@ -450,7 +450,7 @@
     "locations": [
       "Uranus"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/18/VestigialMotes.png/revision/latest?cb=20240619024201"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/18/VestigialMotes.png"
   },
   {
     "name": "Dusklight Sarracenia",
@@ -458,7 +458,7 @@
     "locations": [
       "Ceres"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c5/DusklightSarracenia.png/revision/latest?cb=20221215234214"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c5/DusklightSarracenia.png"
   },
   {
     "name": "Frostleaf",
@@ -468,7 +468,7 @@
       "Neptune",
       "Pluto"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b6/Frostleaf.png/revision/latest?cb=20221215234211"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b6/Frostleaf.png"
   },
   {
     "name": "Lunar Pitcher",
@@ -476,7 +476,7 @@
     "locations": [
       "Lua"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/f5/LunarPitcher.png/revision/latest?cb=20221215234218"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f5/LunarPitcher.png"
   },
   {
     "name": "Moonlight Dragonlily",
@@ -484,7 +484,7 @@
     "locations": [
       "Earth"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/33/MoonlightDragonlily.png/revision/latest?cb=20221215234207"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/33/MoonlightDragonlily.png"
   },
   {
     "name": "Moonlight Jadeleaf",
@@ -492,7 +492,7 @@
     "locations": [
       "Earth"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/09/MoonlightJadeleaf.png/revision/latest?cb=20221215234205"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/09/MoonlightJadeleaf.png"
   },
   {
     "name": "Moonlight Threshcone",
@@ -500,7 +500,7 @@
     "locations": [
       "Earth"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6c/MoonlightThreshcone.png/revision/latest?cb=20221215234209"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6c/MoonlightThreshcone.png"
   },
   {
     "name": "Ruk's Claw",
@@ -508,7 +508,7 @@
     "locations": [
       "Mars"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/9d/Ruk%27sClaw.png/revision/latest?cb=20221215234216"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/9d/Ruk%27sClaw.png"
   },
   {
     "name": "Sunlight Dragonlily",
@@ -516,7 +516,7 @@
     "locations": [
       "Earth"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d6/SunlightDragonlily.png/revision/latest?cb=20221215234158"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d6/SunlightDragonlily.png"
   },
   {
     "name": "Sunlight Jadeleaf",
@@ -524,7 +524,7 @@
     "locations": [
       "Earth"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/96/SunlightJadeleaf.png/revision/latest?cb=20221215234202"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/96/SunlightJadeleaf.png"
   },
   {
     "name": "Sunlight Threshcone",
@@ -532,7 +532,7 @@
     "locations": [
       "Earth"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b8/SunlightThreshcone.png/revision/latest?cb=20221215234200"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b8/SunlightThreshcone.png"
   },
   {
     "name": "Vestan Moss",
@@ -541,7 +541,7 @@
       "Mercury",
       "Ceres"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c3/VestanMoss.png/revision/latest?cb=20221215234220"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c3/VestanMoss.png"
   },
   {
     "name": "Chitinous Husk",
@@ -621,7 +621,7 @@
     "locations": [
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/88/TicorPlate.png/revision/latest?cb=20221214234734"
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/88/TicorPlate.png"
   },
   {
     "name": "Titanium",
@@ -629,7 +629,7 @@
     "locations": [
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/cc/Titanium.png/revision/latest?cb=20221214234737"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/cc/Titanium.png"
   },
   {
     "name": "Asterite",
@@ -637,7 +637,7 @@
     "locations": [
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/cb/Asterite.png/revision/latest?cb=20221214234752"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/cb/Asterite.png"
   },
   {
     "name": "Gallos Rods",
@@ -645,7 +645,7 @@
     "locations": [
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/95/GallosRods.png/revision/latest?cb=20221214234837"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/95/GallosRods.png"
   },
   {
     "name": "Isos",
@@ -653,7 +653,7 @@
     "locations": [
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/5c/Isos.png/revision/latest?cb=20221214234852"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/5c/Isos.png"
   },
   {
     "name": "Aucrux Capacitors",
@@ -661,7 +661,7 @@
     "locations": [
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/15/AucruxCapacitors.png/revision/latest?cb=20221214234807"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/15/AucruxCapacitors.png"
   },
   {
     "name": "Komms",
@@ -669,7 +669,7 @@
     "locations": [
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/a/a4/Komms.png/revision/latest?cb=20221214235209"
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/a4/Komms.png"
   },
   {
     "name": "Nullstones",
@@ -677,7 +677,7 @@
     "locations": [
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/93/Nullstones.png/revision/latest?cb=20221215021750"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/93/Nullstones.png"
   },
   {
     "name": "Anomaly Shard",
@@ -685,7 +685,7 @@
     "locations": [
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/2f/AnomalyShard.png/revision/latest?cb=20221214234907"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/2f/AnomalyShard.png"
   },
   {
     "name": "Corrupted Holokey",
@@ -693,7 +693,7 @@
     "locations": [
       "Empyrean"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/1c/CorruptedHolokey.png/revision/latest?cb=20210709132913"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/1c/CorruptedHolokey.png"
   },
   {
     "name": "Grokdrul",
@@ -701,7 +701,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/bd/Grokdrul.png/revision/latest?cb=20221215022622"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/bd/Grokdrul.png"
   },
   {
     "name": "Iradite",
@@ -709,7 +709,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/e1/Iradite.png/revision/latest?cb=20221215022637"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e1/Iradite.png"
   },
   {
     "name": "Maprico",
@@ -717,7 +717,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/7/70/Maprico.png/revision/latest?cb=20221215022652"
+    "image": "https://static.wikia.nocookie.net/warframe/images/7/70/Maprico.png"
   },
   {
     "name": "Nistlepod",
@@ -725,7 +725,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c1/Nistlepod.png/revision/latest?cb=20221215022707"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c1/Nistlepod.png"
   },
   {
     "name": "Condroc Wing",
@@ -733,7 +733,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/be/CondrocWing.png/revision/latest?cb=20221215022724"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/be/CondrocWing.png"
   },
   {
     "name": "Kuaka Spinal Claw",
@@ -741,7 +741,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c5/KuakaSpinalClaw.png/revision/latest?cb=20221215022722"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c5/KuakaSpinalClaw.png"
   },
   {
     "name": "Breath Of The Eidolon",
@@ -749,7 +749,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/ee/BreathOfTheEidolon.png/revision/latest?cb=20221215022740"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/ee/BreathOfTheEidolon.png"
   },
   {
     "name": "Cetus Wisp",
@@ -757,7 +757,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/04/CetusWisp.png/revision/latest?cb=20221215022725"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/04/CetusWisp.png"
   },
   {
     "name": "Brilliant Eidolon Shard",
@@ -765,7 +765,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/2f/BrilliantEidolonShard.png/revision/latest?cb=20221215022757"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/2f/BrilliantEidolonShard.png"
   },
   {
     "name": "Eidolon Shard",
@@ -773,7 +773,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d5/EidolonShard.png/revision/latest?cb=20221215022755"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d5/EidolonShard.png"
   },
   {
     "name": "Exceptional Sentient Core",
@@ -797,7 +797,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d3/IntactSentientCore.png/revision/latest?cb=20221214233607"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d3/IntactSentientCore.png"
   },
   {
     "name": "Radiant Eidolon Shard",
@@ -805,7 +805,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/bf/RadiantEidolonShard.png/revision/latest?cb=20221215022758"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/bf/RadiantEidolonShard.png"
   },
   {
     "name": "Auron",
@@ -813,7 +813,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/de/Auron.png/revision/latest?cb=20221215023429"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/de/Auron.png"
   },
   {
     "name": "Azurite",
@@ -821,7 +821,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/ee/Azurite.png/revision/latest?cb=20221215023630"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/ee/Azurite.png"
   },
   {
     "name": "Coprun",
@@ -829,7 +829,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/f1/Coprun.png/revision/latest?cb=20221215023500"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f1/Coprun.png"
   },
   {
     "name": "Crimzian",
@@ -837,7 +837,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/8d/Crimzian.png/revision/latest?cb=20221215023700"
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/8d/Crimzian.png"
   },
   {
     "name": "Devar",
@@ -845,7 +845,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/11/Devar.png/revision/latest?cb=20221215023730"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/11/Devar.png"
   },
   {
     "name": "Ferros",
@@ -853,7 +853,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6b/Ferros.png/revision/latest?cb=20221215023530"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6b/Ferros.png"
   },
   {
     "name": "Nyth",
@@ -861,7 +861,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/dc/Nyth.png/revision/latest?cb=20221215023800"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/dc/Nyth.png"
   },
   {
     "name": "Pyrol",
@@ -869,7 +869,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/92/Pyrol.png/revision/latest?cb=20221215023600"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/92/Pyrol.png"
   },
   {
     "name": "Sentirum",
@@ -877,7 +877,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d9/Sentirum.png/revision/latest?cb=20221215023831"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d9/Sentirum.png"
   },
   {
     "name": "Veridos",
@@ -885,7 +885,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/ec/Veridos.png/revision/latest?cb=20221215023901"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/ec/Veridos.png"
   },
   {
     "name": "Boot",
@@ -893,7 +893,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/5c/Boot.png/revision/latest?cb=20221215024052"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/5c/Boot.png"
   },
   {
     "name": "Charc Electroplax",
@@ -901,7 +901,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/4f/CharcElectroplax.png/revision/latest?cb=20221215003516"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/4f/CharcElectroplax.png"
   },
   {
     "name": "Cuthol Tendrils",
@@ -909,7 +909,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6f/CutholTendrils.png/revision/latest?cb=20221215003501"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6f/CutholTendrils.png"
   },
   {
     "name": "Fish Meat",
@@ -917,7 +917,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d7/FishMeat.png/revision/latest?cb=20221215003803"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d7/FishMeat.png"
   },
   {
     "name": "Fish Oil",
@@ -925,7 +925,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/10/FishOil.png/revision/latest?cb=20221215003805"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/10/FishOil.png"
   },
   {
     "name": "Fish Scales",
@@ -933,7 +933,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/00/FishScales.png/revision/latest?cb=20221215003807"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/00/FishScales.png"
   },
   {
     "name": "Goopolla Spleen",
@@ -941,7 +941,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/10/GoopollaSpleen.png/revision/latest?cb=20221215003531"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/10/GoopollaSpleen.png"
   },
   {
     "name": "Karkina Antenna",
@@ -949,7 +949,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/21/KarkinaAntenna.png/revision/latest?cb=20221215003546"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/21/KarkinaAntenna.png"
   },
   {
     "name": "Khut-Khut Venom Sac",
@@ -957,7 +957,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/5c/Khut-KhutVenomSac.png/revision/latest?cb=20221215003601"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/5c/Khut-KhutVenomSac.png"
   },
   {
     "name": "Mawfish Bones",
@@ -965,7 +965,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/16/MawfishBones.png/revision/latest?cb=20221215003603"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/16/MawfishBones.png"
   },
   {
     "name": "Mortus Horn",
@@ -973,7 +973,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/55/MortusHorn.png/revision/latest?cb=20221215003618"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/55/MortusHorn.png"
   },
   {
     "name": "Murkray Liver",
@@ -981,7 +981,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c4/MurkrayLiver.png/revision/latest?cb=20221215003633"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c4/MurkrayLiver.png"
   },
   {
     "name": "Norg Brain",
@@ -989,7 +989,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/4f/NorgBrain.png/revision/latest?cb=20221215003648"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/4f/NorgBrain.png"
   },
   {
     "name": "Seram Beetle Shell",
@@ -997,7 +997,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6c/SeramBeetleShell.png/revision/latest?cb=20221215003703"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6c/SeramBeetleShell.png"
   },
   {
     "name": "Sharrac Teeth",
@@ -1005,7 +1005,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/5e/SharracTeeth.png/revision/latest?cb=20221215003719"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/5e/SharracTeeth.png"
   },
   {
     "name": "Tralok Eyes",
@@ -1013,7 +1013,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d3/TralokEyes.png/revision/latest?cb=20221215003733"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d3/TralokEyes.png"
   },
   {
     "name": "Yogwun Stomach",
@@ -1021,7 +1021,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/8e/YogwunStomach.png/revision/latest?cb=20221215003748"
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/8e/YogwunStomach.png"
   },
   {
     "name": "Hemocyte Cystolith",
@@ -1029,7 +1029,7 @@
     "locations": [
       "Plains of Eidolon"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/7/7b/HemocyteCystolith.png/revision/latest?cb=20221215022817"
+    "image": "https://static.wikia.nocookie.net/warframe/images/7/7b/HemocyteCystolith.png"
   },
   {
     "name": "Narmer Isoplast",
@@ -1038,7 +1038,7 @@
       "Plains of Eidolon",
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b7/NarmerIsoplast.png/revision/latest?cb=20211218192152"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b7/NarmerIsoplast.png"
   },
   {
     "name": "Gorgaricus Spore",
@@ -1046,7 +1046,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/cb/GorgaricusSpore.png/revision/latest?cb=20221215025552"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/cb/GorgaricusSpore.png"
   },
   {
     "name": "Mytocardia Spore",
@@ -1054,7 +1054,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d8/MytocardiaSpore.png/revision/latest?cb=20221215025608"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d8/MytocardiaSpore.png"
   },
   {
     "name": "Tepa Nodule",
@@ -1062,7 +1062,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/2f/TepaNodule.png/revision/latest?cb=20221215025623"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/2f/TepaNodule.png"
   },
   {
     "name": "Thermal Sludge",
@@ -1070,7 +1070,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/13/ThermalSludge.png/revision/latest?cb=20221215025636"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/13/ThermalSludge.png"
   },
   {
     "name": "Advances Debt-Bond",
@@ -1118,7 +1118,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/dc/AtmoSystems.png/revision/latest?cb=20221215025535"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/dc/AtmoSystems.png"
   },
   {
     "name": "Gyromag Systems",
@@ -1126,7 +1126,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/90/GyromagSystems.png/revision/latest?cb=20221215025538"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/90/GyromagSystems.png"
   },
   {
     "name": "Repeller Systems",
@@ -1134,7 +1134,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6d/RepellerSystems.png/revision/latest?cb=20221215025540"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6d/RepellerSystems.png"
   },
   {
     "name": "Calda Toroid",
@@ -1142,7 +1142,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/e4/CaldaToroid.png/revision/latest?cb=20221215025420"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e4/CaldaToroid.png"
   },
   {
     "name": "Crisma Toroid",
@@ -1150,7 +1150,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/e9/CrismaToroid.png/revision/latest?cb=20221215025505"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e9/CrismaToroid.png"
   },
   {
     "name": "Lazulite Toroid",
@@ -1158,7 +1158,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/20/LazuliteToroid.png/revision/latest?cb=20221215025520"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/20/LazuliteToroid.png"
   },
   {
     "name": "Sola Toroid",
@@ -1166,7 +1166,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/11/SolaToroid.png/revision/latest?cb=20221215025435"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/11/SolaToroid.png"
   },
   {
     "name": "Vega Toroid",
@@ -1174,7 +1174,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/07/VegaToroid.png/revision/latest?cb=20221215025450"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/07/VegaToroid.png"
   },
   {
     "name": "Amarast",
@@ -1182,7 +1182,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b9/Amarast.png/revision/latest?cb=20221215030619"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b9/Amarast.png"
   },
   {
     "name": "Axidite",
@@ -1190,7 +1190,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/26/Axidite.png/revision/latest?cb=20221215030403"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/26/Axidite.png"
   },
   {
     "name": "Goblite",
@@ -1198,7 +1198,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/39/Goblite.png/revision/latest?cb=20221215030649"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/39/Goblite.png"
   },
   {
     "name": "Hesperon",
@@ -1206,7 +1206,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/53/Hesperon.png/revision/latest?cb=20221215030433"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/53/Hesperon.png"
   },
   {
     "name": "Noctrul",
@@ -1214,7 +1214,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/10/Noctrul.png/revision/latest?cb=20221215030707"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/10/Noctrul.png"
   },
   {
     "name": "Phasmin",
@@ -1222,7 +1222,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c3/Phasmin.png/revision/latest?cb=20221215030749"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c3/Phasmin.png"
   },
   {
     "name": "Thyst",
@@ -1230,7 +1230,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/a/a6/Thyst.png/revision/latest?cb=20221215030804"
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/a6/Thyst.png"
   },
   {
     "name": "Travoride",
@@ -1238,7 +1238,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6f/Travoride.png/revision/latest?cb=20221215030504"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6f/Travoride.png"
   },
   {
     "name": "Venerol",
@@ -1246,7 +1246,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/21/Venerol.png/revision/latest?cb=20221215030534"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/21/Venerol.png"
   },
   {
     "name": "Zodian",
@@ -1254,7 +1254,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/a/a0/Zodian.png/revision/latest?cb=20221215030834"
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/a0/Zodian.png"
   },
   {
     "name": "Brickie Muon Battery",
@@ -1262,7 +1262,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/de/BrickieMuonBattery.png/revision/latest?cb=20221215183451"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/de/BrickieMuonBattery.png"
   },
   {
     "name": "Charamote Sagan Module",
@@ -1270,7 +1270,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d7/CharamoteSaganModule.png/revision/latest?cb=20221215183453"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d7/CharamoteSaganModule.png"
   },
   {
     "name": "Crewman's Boot",
@@ -1278,7 +1278,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/18/Crewman%27sBoot.png/revision/latest?cb=20200613164438"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/18/Crewman%27sBoot.png"
   },
   {
     "name": "Echowinder Anoscopic Sensor",
@@ -1286,7 +1286,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/2b/EchowinderAnoscopicSensor.png/revision/latest?cb=20221215183442"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/2b/EchowinderAnoscopicSensor.png"
   },
   {
     "name": "Eye-Eye Rotoblade",
@@ -1294,7 +1294,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/38/Eye-EyeRotoblade.png/revision/latest?cb=20221215183439"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/38/Eye-EyeRotoblade.png"
   },
   {
     "name": "Kriller Thermal Laser",
@@ -1302,7 +1302,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/ce/KrillerThermalLaser.png/revision/latest?cb=20221215183455"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/ce/KrillerThermalLaser.png"
   },
   {
     "name": "Longwinder Lathe Coagulant",
@@ -1310,7 +1310,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/cc/LongwinderLatheCoagulant.png/revision/latest?cb=20221215183448"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/cc/LongwinderLatheCoagulant.png"
   },
   {
     "name": "Mirewinder Parallel Biode",
@@ -1318,7 +1318,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/23/MirewinderParallelBiode.png/revision/latest?cb=20221215183437"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/23/MirewinderParallelBiode.png"
   },
   {
     "name": "Recaster Neural Relay",
@@ -1326,7 +1326,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/fe/RecasterNeuralRelay.png/revision/latest?cb=20221215183450"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fe/RecasterNeuralRelay.png"
   },
   {
     "name": "Sapcaddy Venedo Case",
@@ -1334,7 +1334,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/86/SapcaddyVenedoCase.png/revision/latest?cb=20221215183435"
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/86/SapcaddyVenedoCase.png"
   },
   {
     "name": "Scrap",
@@ -1342,7 +1342,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b8/Scrap.png/revision/latest?cb=20221215030348"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b8/Scrap.png"
   },
   {
     "name": "Scrubber Exa Brain",
@@ -1350,7 +1350,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/1a/ScrubberExaBrain.png/revision/latest?cb=20221215183446"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/1a/ScrubberExaBrain.png"
   },
   {
     "name": "Synathid Ecosynth Analyzer",
@@ -1358,7 +1358,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b7/SynathidEcosynthAnalyzer.png/revision/latest?cb=20221215183444"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b7/SynathidEcosynthAnalyzer.png"
   },
   {
     "name": "Tink Dissipator Coil",
@@ -1366,7 +1366,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b8/TinkDissipatorCoil.png/revision/latest?cb=20221215030905"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b8/TinkDissipatorCoil.png"
   },
   {
     "name": "Tromyzon Entroplasma",
@@ -1374,7 +1374,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/TromyzonEntroplasma.png/revision/latest?cb=20221215183440"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/TromyzonEntroplasma.png"
   },
   {
     "name": "Diluted Thermia",
@@ -1382,7 +1382,7 @@
     "locations": [
       "Orb Vallis"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/e5/DilutedThermia.png/revision/latest?cb=20190309212243"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e5/DilutedThermia.png"
   },
   {
     "name": "Ganglion",
@@ -1390,7 +1390,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/4b/Ganglion.png/revision/latest?cb=20221215031151"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/4b/Ganglion.png"
   },
   {
     "name": "Lucent Teroglobe",
@@ -1398,7 +1398,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d9/LucentTeroglobe.png/revision/latest?cb=20221215031221"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d9/LucentTeroglobe.png"
   },
   {
     "name": "Pustulite",
@@ -1406,7 +1406,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/e1/Pustulite.png/revision/latest?cb=20221215031206"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e1/Pustulite.png"
   },
   {
     "name": "Scintillant",
@@ -1414,7 +1414,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/03/Scintillant.png/revision/latest?cb=20221215031236"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/03/Scintillant.png"
   },
   {
     "name": "Seriglass Shard",
@@ -1422,7 +1422,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/9c/SeriglassShard.png/revision/latest?cb=20221215031136"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/9c/SeriglassShard.png"
   },
   {
     "name": "Fass Residue",
@@ -1430,7 +1430,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/2f/FassResidue.png/revision/latest?cb=20200915062519"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/2f/FassResidue.png"
   },
   {
     "name": "Vome Residue",
@@ -1438,7 +1438,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/68/VomeResidue.png/revision/latest?cb=20200915062522"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/68/VomeResidue.png"
   },
   {
     "name": "Daughter Token",
@@ -1446,7 +1446,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/5a/DaughterToken.png/revision/latest?cb=20221215031251"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/5a/DaughterToken.png"
   },
   {
     "name": "Father Token",
@@ -1454,7 +1454,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c7/FatherToken.png/revision/latest?cb=20221215031306"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c7/FatherToken.png"
   },
   {
     "name": "Grandmother Token",
@@ -1462,7 +1462,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6c/GrandmotherToken.png/revision/latest?cb=20221215031321"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6c/GrandmotherToken.png"
   },
   {
     "name": "Mother Token",
@@ -1470,7 +1470,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/fe/MotherToken.png/revision/latest?cb=20221215031406"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fe/MotherToken.png"
   },
   {
     "name": "Otak Token",
@@ -1478,7 +1478,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/f0/OtakToken.png/revision/latest?cb=20221215031351"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f0/OtakToken.png"
   },
   {
     "name": "Son Token",
@@ -1486,7 +1486,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/52/SonToken.png/revision/latest?cb=20221215031336"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/52/SonToken.png"
   },
   {
     "name": "Orokin Animus Matrix",
@@ -1494,7 +1494,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/95/OrokinAnimusMatrix.png/revision/latest?cb=20221215190524"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/95/OrokinAnimusMatrix.png"
   },
   {
     "name": "Orokin Ballistics Matrix",
@@ -1502,7 +1502,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/05/OrokinBallisticsMatrix.png/revision/latest?cb=20221215190522"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/05/OrokinBallisticsMatrix.png"
   },
   {
     "name": "Orokin Orientation Matrix",
@@ -1510,7 +1510,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/41/OrokinOrientationMatrix.png/revision/latest?cb=20221215190520"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/41/OrokinOrientationMatrix.png"
   },
   {
     "name": "Damaged Necramech Casing",
@@ -1518,7 +1518,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/f2/DamagedNecramechCasing.png/revision/latest?cb=20221215185029"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f2/DamagedNecramechCasing.png"
   },
   {
     "name": "Damaged Necramech Engine",
@@ -1526,7 +1526,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/45/DamagedNecramechEngine.png/revision/latest?cb=20221215185014"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/45/DamagedNecramechEngine.png"
   },
   {
     "name": "Damaged Necramech Pod",
@@ -1534,7 +1534,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/fc/DamagedNecramechPod.png/revision/latest?cb=20221215184959"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fc/DamagedNecramechPod.png"
   },
   {
     "name": "Damaged Necramech Weapon Barrel",
@@ -1542,7 +1542,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/95/DamagedNecramechWeaponBarrel.png/revision/latest?cb=20221215184944"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/95/DamagedNecramechWeaponBarrel.png"
   },
   {
     "name": "Damaged Necramech Weapon Pod",
@@ -1550,7 +1550,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/a/ae/DamagedNecramechWeaponPod.png/revision/latest?cb=20221215184929"
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/ae/DamagedNecramechWeaponPod.png"
   },
   {
     "name": "Damaged Necramech Weapon Receiver",
@@ -1558,7 +1558,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6a/DamagedNecramechWeaponReceiver.png/revision/latest?cb=20221215184914"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6a/DamagedNecramechWeaponReceiver.png"
   },
   {
     "name": "Damaged Necramech Weapon Stock",
@@ -1566,7 +1566,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6b/DamagedNecramechWeaponStock.png/revision/latest?cb=20221215184859"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6b/DamagedNecramechWeaponStock.png"
   },
   {
     "name": "Adramalium",
@@ -1574,7 +1574,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/10/Adramalium.png/revision/latest?cb=20221215184357"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/10/Adramalium.png"
   },
   {
     "name": "Bapholite",
@@ -1582,7 +1582,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/a/a7/Bapholite.png/revision/latest?cb=20221215184443"
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/a7/Bapholite.png"
   },
   {
     "name": "Dagonic",
@@ -1590,7 +1590,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/42/Dagonic.png/revision/latest?cb=20221215184613"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/42/Dagonic.png"
   },
   {
     "name": "Embolos",
@@ -1598,7 +1598,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/f9/Embolos.png/revision/latest?cb=20221215184628"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f9/Embolos.png"
   },
   {
     "name": "Heciphron",
@@ -1606,7 +1606,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/09/Heciphron.png/revision/latest?cb=20221215184713"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/09/Heciphron.png"
   },
   {
     "name": "Namalon",
@@ -1614,7 +1614,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/a/ac/Namalon.png/revision/latest?cb=20221215184458"
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/ac/Namalon.png"
   },
   {
     "name": "Necrathene",
@@ -1622,7 +1622,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/53/Necrathene.png/revision/latest?cb=20221215184744"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/53/Necrathene.png"
   },
   {
     "name": "Thaumica",
@@ -1630,7 +1630,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/4b/Thaumica.png/revision/latest?cb=20221215184528"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/4b/Thaumica.png"
   },
   {
     "name": "Tiametrite",
@@ -1638,7 +1638,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/00/Tiametrite.png/revision/latest?cb=20221215184759"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/00/Tiametrite.png"
   },
   {
     "name": "Xenorhast",
@@ -1646,7 +1646,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/fc/Xenorhast.png/revision/latest?cb=20221215184829"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fc/Xenorhast.png"
   },
   {
     "name": "Benign Infested Tumor",
@@ -1654,7 +1654,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/89/BenignInfestedTumor.png/revision/latest?cb=20221215183826"
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/89/BenignInfestedTumor.png"
   },
   {
     "name": "Biotic Filter",
@@ -1662,7 +1662,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/48/BioticFilter.png/revision/latest?cb=20221215183856"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/48/BioticFilter.png"
   },
   {
     "name": "Cranial Foremount",
@@ -1670,7 +1670,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/ec/CranialForemount.png/revision/latest?cb=20221215183911"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/ec/CranialForemount.png"
   },
   {
     "name": "Dendrite Blastoma",
@@ -1678,7 +1678,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/7/7d/DendriteBlastoma.png/revision/latest?cb=20221215183927"
+    "image": "https://static.wikia.nocookie.net/warframe/images/7/7d/DendriteBlastoma.png"
   },
   {
     "name": "Ferment Bladder",
@@ -1686,7 +1686,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c3/FermentBladder.png/revision/latest?cb=20221215183841"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c3/FermentBladder.png"
   },
   {
     "name": "Ocular Stem-Root",
@@ -1694,7 +1694,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/9d/OcularStem-Root.png/revision/latest?cb=20201121032112"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/9d/OcularStem-Root.png"
   },
   {
     "name": "Parasitic Tethermaw",
@@ -1702,7 +1702,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/6e/ParasiticTethermaw.png/revision/latest?cb=20201121030626"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6e/ParasiticTethermaw.png"
   },
   {
     "name": "Pustulent Cognitive Nodule",
@@ -1710,7 +1710,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d9/PustulentCognitiveNodule.png/revision/latest?cb=20221215184042"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d9/PustulentCognitiveNodule.png"
   },
   {
     "name": "Saturated Muscle Mass",
@@ -1718,7 +1718,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/2a/SaturatedMuscleMass.png/revision/latest?cb=20221215184027"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/2a/SaturatedMuscleMass.png"
   },
   {
     "name": "Spinal Core Section",
@@ -1726,7 +1726,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/ec/SpinalCoreSection.png/revision/latest?cb=20221215184012"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/ec/SpinalCoreSection.png"
   },
   {
     "name": "Sporulate Sac",
@@ -1734,7 +1734,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/36/SporulateSac.png/revision/latest?cb=20221215183957"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/36/SporulateSac.png"
   },
   {
     "name": "Tubercular Gill System",
@@ -1742,7 +1742,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/a/ae/TubercularGillSystem.png/revision/latest?cb=20201121032331"
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/ae/TubercularGillSystem.png"
   },
   {
     "name": "Waxen Sebum Deposit",
@@ -1750,7 +1750,7 @@
     "locations": [
       "Cambion Drift"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/5/56/WaxenSebumDeposit.png/revision/latest?cb=20221215183942"
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/56/WaxenSebumDeposit.png"
   },
   {
     "name": "Thrax Plasm",
@@ -1758,7 +1758,7 @@
     "locations": [
       "Zariman"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/89/ThraxPlasm.png/revision/latest?cb=20220428022532"
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/89/ThraxPlasm.png"
   },
   {
     "name": "Voidgel Orb",
@@ -1766,7 +1766,7 @@
     "locations": [
       "Zariman"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/40/VoidgelOrb.png/revision/latest?cb=20220428015928"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/40/VoidgelOrb.png"
   },
   {
     "name": "Entrati Lanthorn",
@@ -1775,7 +1775,7 @@
       "Zariman",
       "Albrecht's Laboratories"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/6/61/EntratiLanthorn.png/revision/latest?cb=20220428022618"
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/61/EntratiLanthorn.png"
   },
   {
     "name": "Aggristone",
@@ -1783,7 +1783,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/e9/Aggristone.png/revision/latest?cb=20230428235139"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e9/Aggristone.png"
   },
   {
     "name": "Kovnik",
@@ -1791,7 +1791,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/21/Kovnik.png/revision/latest?cb=20230428235147"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/21/Kovnik.png"
   },
   {
     "name": "Lamentus",
@@ -1799,7 +1799,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/16/Lamentus.png/revision/latest?cb=20230428235146"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/16/Lamentus.png"
   },
   {
     "name": "Saggen Pearl",
@@ -1807,7 +1807,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/ca/SaggenPearl.png/revision/latest?cb=20230428235142"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/ca/SaggenPearl.png"
   },
   {
     "name": "Silphsela",
@@ -1815,7 +1815,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/f8/Silphsela.png/revision/latest?cb=20230428235141"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f8/Silphsela.png"
   },
   {
     "name": "Connla Sprout",
@@ -1823,7 +1823,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/8b/ConnlaSprout.png/revision/latest?cb=20230428235137"
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/8b/ConnlaSprout.png"
   },
   {
     "name": "Dracroot",
@@ -1831,7 +1831,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/7/7e/Dracroot.png/revision/latest?cb=20230428235150"
+    "image": "https://static.wikia.nocookie.net/warframe/images/7/7e/Dracroot.png"
   },
   {
     "name": "Rune Marrow",
@@ -1839,7 +1839,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/fb/RuneMarrow.png/revision/latest?cb=20230428235143"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fb/RuneMarrow.png"
   },
   {
     "name": "Ueymag",
@@ -1847,7 +1847,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/ea/Ueymag.png/revision/latest?cb=20230622065202"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/ea/Ueymag.png"
   },
   {
     "name": "Eevani",
@@ -1855,7 +1855,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/cb/Eevani.png/revision/latest?cb=20230428235149"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/cb/Eevani.png"
   },
   {
     "name": "Tasoma Extract",
@@ -1863,7 +1863,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b9/TasomaExtract.png/revision/latest?cb=20230428235140"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b9/TasomaExtract.png"
   },
   {
     "name": "Yao Shrub",
@@ -1871,7 +1871,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/33/YaoShrub.png/revision/latest?cb=20230428235140"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/33/YaoShrub.png"
   },
   {
     "name": "Ariette Scale",
@@ -1879,7 +1879,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/a/a9/ArietteScale.png/revision/latest?cb=20230428235138"
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/a9/ArietteScale.png"
   },
   {
     "name": "Maw Fang",
@@ -1887,7 +1887,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/31/MawFang.png/revision/latest?cb=20230428235145"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/31/MawFang.png"
   },
   {
     "name": "Nacreous Pebble",
@@ -1895,7 +1895,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/be/NacreousPebble.png/revision/latest?cb=20230428235144"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/be/NacreousPebble.png"
   },
   {
     "name": "Enigma Gyrum",
@@ -1903,7 +1903,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/4e/EnigmaGyrum.png/revision/latest?cb=20230428235148"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/4e/EnigmaGyrum.png"
   },
   {
     "name": "Kullervo's Bane",
@@ -1911,7 +1911,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/9/94/Kullervo%27sBane.png/revision/latest?cb=20230622065231"
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/94/Kullervo%27sBane.png"
   },
   {
     "name": "Pathos Clamp",
@@ -1919,7 +1919,7 @@
     "locations": [
       "Duviri"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/f2/PathosClamp.png/revision/latest?cb=20230428235144"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f2/PathosClamp.png"
   },
   {
     "name": "Entrati Obols",
@@ -1927,7 +1927,7 @@
     "locations": [
       "Albrecht's Laboratories"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/85/EntratiObols.png/revision/latest?cb=20231214193224"
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/85/EntratiObols.png"
   },
   {
     "name": "Necracoil",
@@ -1935,7 +1935,7 @@
     "locations": [
       "Albrecht's Laboratories"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/e/e2/Necracoil.png/revision/latest?cb=20231214193244"
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e2/Necracoil.png"
   },
   {
     "name": "Stela",
@@ -1943,7 +1943,7 @@
     "locations": [
       "Albrecht's Laboratories"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d7/Stela.png/revision/latest?cb=20231214193305"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d7/Stela.png"
   },
   {
     "name": "Efervon Sample",
@@ -1951,7 +1951,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b9/Efervon_Sample.png/revision/latest?cb=20241214025636"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b9/Efervon_Sample.png"
   },
   {
     "name": "Höllvanian Pitchweave Fragment",
@@ -1959,7 +1959,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/f/fc/Hollvanian_Pitchweave_Fragment.png/revision/latest?cb=20241214025635"
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fc/Hollvanian_Pitchweave_Fragment.png"
   },
   {
     "name": "Experimental Arc-Relay",
@@ -1967,7 +1967,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/ca/Experimental_Arc-Relay.png/revision/latest?cb=20241214025635"
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/ca/Experimental_Arc-Relay.png"
   },
   {
     "name": "Techrot Chitin",
@@ -1975,7 +1975,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/2/28/Techrot_Chitin.png/revision/latest?cb=20241214025634"
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/28/Techrot_Chitin.png"
   },
   {
     "name": "Techrot Motherboard",
@@ -1983,7 +1983,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/00/Techrot_Motherboard.png/revision/latest?cb=20241214025635"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/00/Techrot_Motherboard.png"
   },
   {
     "name": "35mm Film",
@@ -1991,7 +1991,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/0d/35mm_Film.png/revision/latest?cb=20241216185001"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/0d/35mm_Film.png"
   },
   {
     "name": "Argon Burger Meal",
@@ -1999,7 +1999,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/8c/Argon_Burger_Meal.png/revision/latest?cb=20241216185136"
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/8c/Argon_Burger_Meal.png"
   },
   {
     "name": "Big Bytes Pizza",
@@ -2007,7 +2007,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/8/8c/Big_Bytes_Pizza.png/revision/latest?cb=20241216185103"
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/8c/Big_Bytes_Pizza.png"
   },
   {
     "name": "Cheddar Crowns Cereal",
@@ -2015,7 +2015,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/7/7c/Cheddar_Crowns_Cereal.png/revision/latest?cb=20241216182951"
+    "image": "https://static.wikia.nocookie.net/warframe/images/7/7c/Cheddar_Crowns_Cereal.png"
   },
   {
     "name": "Chuggin' Along Sixpack",
@@ -2023,7 +2023,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Chuggin%27_Along_Sixpack.png/revision/latest?cb=20241216185243"
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Chuggin%27_Along_Sixpack.png"
   },
   {
     "name": "Mood Crystal",
@@ -2031,7 +2031,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/08/Mood_Crystal.png/revision/latest?cb=20241216182918"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/08/Mood_Crystal.png"
   },
   {
     "name": "On-lyne CD",
@@ -2039,7 +2039,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/12/On-lyne_CD.png/revision/latest?cb=20241216185312"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/12/On-lyne_CD.png"
   },
   {
     "name": "The Countessa Comic",
@@ -2047,7 +2047,7 @@
     "locations": [
       "Höllvania"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/d1/The_Countessa_Comic.png/revision/latest?cb=20241216182758"
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d1/The_Countessa_Comic.png"
   },
   {
     "name": "Nitain Extract",
@@ -2055,7 +2055,7 @@
     "locations": [
       "Miscellaneous"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/0/0c/NitainExtract.png/revision/latest?cb=20221214233628"
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/0c/NitainExtract.png"
   },
   {
     "name": "Steel Essence",
@@ -2063,7 +2063,7 @@
     "locations": [
       "Miscellaneous"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/1/10/SteelEssence.png/revision/latest?cb=20221214233649"
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/10/SteelEssence.png"
   },
   {
     "name": "Vitus Essence",
@@ -2071,7 +2071,7 @@
     "locations": [
       "Miscellaneous"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/b/b9/VitusEssence.png/revision/latest?cb=20221130055924"
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b9/VitusEssence.png"
   },
   {
     "name": "Void Traces",
@@ -2079,6 +2079,6 @@
     "locations": [
       "Miscellaneous"
     ],
-    "image": "https://static.wikia.nocookie.net/warframe/images/4/42/VoidTraces.png/revision/latest?cb=20221214233704"
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/42/VoidTraces.png"
   }
 ]
