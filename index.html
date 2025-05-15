@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Unified Warframe Manager</title>
+    <title>Warframe Crafting Manager</title>
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>⚔️</text></svg>">
     <style>
         * {
@@ -1211,7 +1211,7 @@
     <div id="saveNotification" class="save-notification">Data saved successfully!</div>
     
     <div class="container">
-        <h1>Unified Warframe Manager</h1>
+        <h1>Warframe Crafting Manager</h1>
         
         <div class="tabs">
             <!-- <button class="tab" data-tab="resources">Resource Manager</button>
@@ -1931,8 +1931,7 @@ async function loadDataFromStorage() {
     if (!localInventory.items) localInventory.items = {};
     if (!localInventory.blueprints) localInventory.blueprints = {};
     
-    // Show loading notification
-    showNotification('Loading data from GitHub...', 10000, 'info');
+
     
     // GitHub repository information
     const githubUser = 'Zurix789';
@@ -2033,8 +2032,7 @@ async function loadDataFromStorage() {
         // Save the synchronized data to localStorage as a backup
         saveInventory();
         
-        // Show success notification
-        showNotification('Data loaded successfully from GitHub!', 3000, 'success');
+
         
         return true;
     } catch (error) {
@@ -2617,7 +2615,7 @@ function showSaveNotification(message = 'Data saved successfully!') {
             
             setTimeout(() => {
                 notification.classList.remove('show');
-            }, 2000);
+            }, 1);
         }
         
         // Export data to JSON file
@@ -5218,7 +5216,20 @@ function renderFilteredItems() {
             renderTotalResources(totalResources, totalCredits, blueprintCredits, buildCredits, componentItems);
         
         // Render total resources
+// Render total resources with inline inventory update
+// Render total resources with inline inventory update
 function renderTotalResources(totalResources, totalCredits, blueprintCredits, buildCredits, componentItems = {}) {
+    // Store expanded states before rendering
+    const expandedStates = {};
+    
+    // Check which sections are currently expanded
+    const collapsibles = document.querySelectorAll('[id$="-collapsible"]');
+    collapsibles.forEach(el => {
+        if (el.style.display !== 'none') {
+            expandedStates[el.id] = true;
+        }
+    });
+    
     const totalCreditsElement = document.getElementById('total-credits');
     const totalResourcesElement = document.getElementById('total-resources');
     
@@ -5372,6 +5383,20 @@ function renderTotalResources(totalResources, totalCredits, blueprintCredits, bu
                 `;
             }
             
+            // Add inventory update controls for component items
+            const inventoryUpdateHTML = `
+                <div style="margin-top: 8px; padding: 4px; background-color: #f8f9fa; border-radius: 4px; display: flex; align-items: center;">
+                    <label style="margin-right: 5px; font-size: 12px;">Inventory quantity:</label>
+                    <input type="number" 
+                        class="inventory-quantity-input" 
+                        value="${availableQuantity}" 
+                        min="0" 
+                        data-item="${itemName}" 
+                        style="width: 60px; text-align: center; font-size: 12px;"
+                        oninput="updateInventoryItemQuantityAndPreserveState(this);">
+                </div>
+            `;
+            
             itemElement.innerHTML = `
                 <div class="resource-header">
                     <div class="resource-img">
@@ -5379,15 +5404,17 @@ function renderTotalResources(totalResources, totalCredits, blueprintCredits, bu
                     </div>
                     <div>
                         <div class="resource-name">${itemName} ${masteryHTML}</div>
-                        <div class="resource-quantity">${quantity.toLocaleString()} needed</div>
-                        <div>
-                            <span style="color: ${statusColor}; font-weight: bold;">${statusText}</span>
+                        <div class="resource-quantity" style="display: flex; align-items: center; gap: 8px;">
+                            <span style="font-weight: bold; ${neededQuantity === 0 ? 'color: #28a745;' : ''}">${neededQuantity === 0 ? 'All required items available' : `Still need to craft: ${neededQuantity.toLocaleString()}`}</span>
+                            <span style="color: ${statusColor}; font-weight: bold; font-size: 12px; padding: 2px 6px; border-radius: 4px; background-color: ${statusColor}20;">${statusText}</span>
                         </div>
                         <div style="margin-top: 5px;">
-                            <small>Available: ${availableQuantity.toLocaleString()}</small>
-                            <br>
-                            <small>${neededQuantity > 0 ? `Still need to craft: ${neededQuantity.toLocaleString()}` : 'All needed items available'}</small>
+                            <div style="display: flex; justify-content: space-between;">
+                                <span>Total required: ${quantity.toLocaleString()}</span>
+                                <span>Available: ${availableQuantity.toLocaleString()}</span>
+                            </div>
                         </div>
+                        ${inventoryUpdateHTML}
                         ${blueprintInputHTML}
                         ${blueprintSourceHTML}
                         <div style="color: #17a2b8; font-style: italic; margin-top: 4px">Component Item</div>
@@ -5481,6 +5508,20 @@ function renderTotalResources(totalResources, totalCredits, blueprintCredits, bu
                 locationsHTML = `<div class="resource-locations" style="margin-top: 8px; font-size: 12px; color: #666;">No known locations</div>`;
             }
             
+            // Add inventory update input and button
+            const inventoryUpdateHTML = `
+                <div style="margin-top: 8px; padding: 4px; background-color: #f8f9fa; border-radius: 4px; display: flex; align-items: center;">
+                    <label style="margin-right: 5px; font-size: 12px;">Inventory quantity:</label>
+                    <input type="number" 
+                        class="inventory-quantity-input" 
+                        value="${availableQuantity}" 
+                        min="0" 
+                        data-resource="${resourceName}" 
+                        style="width: 60px; text-align: center; font-size: 12px;"
+                        oninput="updateResourceQuantityAndPreserveState(this);">
+                </div>
+            `;
+            
             resourceElement.innerHTML = `
                 <div class="resource-header">
                     <div class="resource-img">
@@ -5488,15 +5529,17 @@ function renderTotalResources(totalResources, totalCredits, blueprintCredits, bu
                     </div>
                     <div>
                         <div class="resource-name">${resourceName}</div>
-                        <div class="resource-quantity">${quantity.toLocaleString()} needed</div>
-                        <div>
-                            <span style="color: ${statusColor}; font-weight: bold;">${statusText}</span>
+                        <div class="resource-quantity" style="display: flex; align-items: center; gap: 8px;">
+                            <span style="font-weight: bold; ${neededQuantity === 0 ? 'color: #28a745;' : ''}">${neededQuantity === 0 ? 'All required resources available' : `Still need: ${neededQuantity.toLocaleString()}`}</span>
+                            <span style="color: ${statusColor}; font-weight: bold; font-size: 12px; padding: 2px 6px; border-radius: 4px; background-color: ${statusColor}20;">${statusText}</span>
                         </div>
                         <div style="margin-top: 5px;">
-                            <small>Available: ${availableQuantity.toLocaleString()}</small>
-                            <br>
-                            <small>Still need: ${neededQuantity.toLocaleString()}</small>
+                            <div style="display: flex; justify-content: space-between;">
+                                <span>Total required: ${quantity.toLocaleString()}</span>
+                                <span>Available: ${availableQuantity.toLocaleString()}</span>
+                            </div>
                         </div>
+                        ${inventoryUpdateHTML}
                         ${locationsHTML}
                     </div>
                 </div>
@@ -5506,20 +5549,166 @@ function renderTotalResources(totalResources, totalCredits, blueprintCredits, bu
         });
     }
     
-    // Auto-expand sections if there are only a few items
-    // This makes the UX better for simple crafting scenarios
+    // Auto-expand sections based on previously expanded states or default behavior
     setTimeout(() => {
-        if (resourceCount > 0 && resourceCount <= 3) {
-            toggleCollapsible(rawResourcesId);
+        // First restore any previously expanded states
+        for (const [id, wasExpanded] of Object.entries(expandedStates)) {
+            if (wasExpanded && document.getElementById(id)) {
+                document.getElementById(id).style.display = 'block';
+                
+                // Also update toggle icons if any
+                const toggleBtn = document.querySelector(`button[onclick="toggleCollapsible('${id}')"]`);
+                if (toggleBtn) {
+                    const icon = toggleBtn.querySelector('.toggle-icon');
+                    if (icon) {
+                        icon.textContent = '▲';
+                    }
+                }
+            }
         }
         
-        const componentCount = Object.keys(componentItems).length;
-        if (componentCount > 0 && componentCount <= 3) {
-            toggleCollapsible(componentItemsId);
+        // If no states were restored, use default behavior for small number of items
+        if (Object.keys(expandedStates).length === 0) {
+            if (resourceCount > 0 && resourceCount <= 3) {
+                toggleCollapsible(rawResourcesId);
+            }
+            
+            const componentCount = Object.keys(componentItems).length;
+            if (componentCount > 0 && componentCount <= 3) {
+                toggleCollapsible(componentItemsId);
+            }
         }
-    }, 100);
+    }, 1);
     
     totalResourcesElement.appendChild(rawResourcesSection);
+}
+// Functions to update inventory quantities with minimal refresh
+
+// Update resource quantity with minimal UI refresh
+function updateResourceQuantityAndPreserveState(input) {
+    // Debounce the input to prevent excessive updates
+    if (input._timeoutId) clearTimeout(input._timeoutId);
+    
+    input._timeoutId = setTimeout(() => {
+        // Get resource name and quantity
+        const resourceName = input.getAttribute('data-resource');
+        const newQuantity = parseInt(input.value) || 0;
+        
+        // Update inventory data
+        inventory.resources[resourceName] = newQuantity;
+        saveInventory();
+        
+        // Store expanded sections
+        const expandedSections = {};
+        document.querySelectorAll('[id$="-collapsible"]').forEach(section => {
+            if (section.style.display !== 'none') {
+                expandedSections[section.id] = true;
+            }
+        });
+        
+        // Update only what's needed - recalculate totals but preserve expanded sections
+        calculateTotals();
+        
+        // Restore expanded sections
+        setTimeout(() => {
+            for (const [id, isExpanded] of Object.entries(expandedSections)) {
+                const section = document.getElementById(id);
+                if (section && isExpanded) {
+                    section.style.display = 'block';
+                    
+                    // Also update toggle icon
+                    const btn = document.querySelector(`button[onclick="toggleCollapsible('${id}')"]`);
+                    if (btn) {
+                        const icon = btn.querySelector('.toggle-icon');
+                        if (icon) icon.textContent = '▲';
+                    }
+                }
+            }
+        }, 1);
+        
+        // Show a quick notification
+        showQuickNotification(`${resourceName} updated to ${newQuantity}`);
+    }, 10); // 300ms debounce delay
+}
+
+// Update item quantity with minimal UI refresh 
+function updateInventoryItemQuantityAndPreserveState(input) {
+    // Debounce the input to prevent excessive updates
+    if (input._timeoutId) clearTimeout(input._timeoutId);
+    
+    input._timeoutId = setTimeout(() => {
+        // Get item name and quantity
+        const itemName = input.getAttribute('data-item');
+        const newQuantity = parseInt(input.value) || 0;
+        
+        // Update inventory data
+        inventory.items[itemName] = newQuantity;
+        saveInventory();
+        
+        // Store expanded sections
+        const expandedSections = {};
+        document.querySelectorAll('[id$="-collapsible"]').forEach(section => {
+            if (section.style.display !== 'none') {
+                expandedSections[section.id] = true;
+            }
+        });
+        
+        // Update only what's needed - recalculate totals but preserve expanded sections
+        calculateTotals();
+        
+        // Restore expanded sections
+        setTimeout(() => {
+            for (const [id, isExpanded] of Object.entries(expandedSections)) {
+                const section = document.getElementById(id);
+                if (section && isExpanded) {
+                    section.style.display = 'block';
+                    
+                    // Also update toggle icon
+                    const btn = document.querySelector(`button[onclick="toggleCollapsible('${id}')"]`);
+                    if (btn) {
+                        const icon = btn.querySelector('.toggle-icon');
+                        if (icon) icon.textContent = '▲';
+                    }
+                }
+            }
+        }, 1);
+        
+        // Show a quick notification
+        showQuickNotification(`${itemName} updated to ${newQuantity}`);
+    }, 300); // 300ms debounce delay
+}
+
+// Show a quick, non-intrusive notification
+function showQuickNotification(message) {
+    // Check if notification element exists already
+    let notif = document.getElementById('quick-notification');
+    
+    // Create if it doesn't exist
+    if (!notif) {
+        notif = document.createElement('div');
+        notif.id = 'quick-notification';
+        notif.style.position = 'fixed';
+        notif.style.bottom = '10px';
+        notif.style.right = '10px';
+        notif.style.backgroundColor = 'rgba(40, 167, 69, 0.9)';
+        notif.style.color = 'white';
+        notif.style.padding = '8px 12px';
+        notif.style.borderRadius = '4px';
+        notif.style.fontSize = '14px';
+        notif.style.opacity = '0';
+        notif.style.transition = 'opacity 0.3s';
+        notif.style.zIndex = '1000';
+        document.body.appendChild(notif);
+    }
+    
+    // Update message and show
+    notif.textContent = message;
+    notif.style.opacity = '1';
+    
+    // Hide after delay
+    setTimeout(() => {
+        notif.style.opacity = '0';
+    }, 1500);
 }
         
         /**************************
@@ -8401,6 +8590,48 @@ document.addEventListener('DOMContentLoaded', function() {
 // Call the initialization immediately if the script is executed after the DOM is loaded
 if (document.readyState === 'complete' || document.readyState === 'interactive') {
     setTimeout(ensureTabsInitialized, 100);
+}
+// Track open collapsible sections for the Crafting Calculator only
+window.craftingCollapsibleState = {
+    componentItems: false,
+    rawResources: false,
+    // Additional tracking for individual component sources and locations
+    componentSources: {},
+    resourceLocations: {}
+};
+
+// Modified toggleCollapsible function that saves state for crafting calculator sections
+function toggleCollapsible(id) {
+    const element = document.getElementById(id);
+    if (!element) return;
+    
+    // Toggle the display of the element
+    const isCurrentlyVisible = element.style.display !== 'none';
+    element.style.display = isCurrentlyVisible ? 'none' : 'block';
+    
+    // Track state for crafting calculator sections
+    if (id === 'component-items-collapsible') {
+        window.craftingCollapsibleState.componentItems = !isCurrentlyVisible;
+    } else if (id === 'raw-resources-collapsible') {
+        window.craftingCollapsibleState.rawResources = !isCurrentlyVisible;
+    } else if (id.startsWith('component-source-')) {
+        // Track component blueprint source sections
+        const itemName = id.replace('component-source-', '');
+        window.craftingCollapsibleState.componentSources[itemName] = !isCurrentlyVisible;
+    } else if (id.startsWith('locations-')) {
+        // Track resource locations sections
+        const resourceName = id.replace('locations-', '');
+        window.craftingCollapsibleState.resourceLocations[resourceName] = !isCurrentlyVisible;
+    }
+    
+    // Toggle the arrow icon in the button
+    const button = document.querySelector(`button[onclick="toggleCollapsible('${id}')"]`);
+    if (button) {
+        const icon = button.querySelector('.toggle-icon');
+        if (icon) {
+            icon.textContent = isCurrentlyVisible ? '▼' : '▲';
+        }
+    }
 }
     </script>
 </body>
