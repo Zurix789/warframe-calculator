@@ -1,0 +1,1971 @@
+[
+  {
+    "name": "Ember",
+    "category": "Warframes",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/38/Ember.png/revision/latest?cb=20221110215829",
+    "buildCreditCost": "25000",
+    "blueprintSource": "Bought from Market",
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "25000"
+    },
+    "resources": [
+      {
+        "name": "Ember Neuroptics",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Ember Chassis",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Ember Systems",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Orokin Cell",
+        "quantity": 1,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": true,
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Excalibur",
+    "category": "Warframes",
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fa/Excalibur.png/revision/latest?cb=20221110215740",
+    "buildCreditCost": "25000",
+    "blueprintSource": "Bought from Market",
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "35000"
+    },
+    "resources": [
+      {
+        "name": "Excalibur Neuroptics",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Excalibur Chassis",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Excalibur Systems",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Orokin Cell",
+        "quantity": 1,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": true,
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Loki",
+    "category": "Warframes",
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fe/Loki.png/revision/latest?cb=20221110215142",
+    "buildCreditCost": "25000",
+    "blueprintSource": "Bought from Market",
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "35000"
+    },
+    "resources": [
+      {
+        "name": "Loki Neuroptics",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Loki Chassis",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Loki Systems",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Orokin Cell",
+        "quantity": 1,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": true,
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Trinity",
+    "category": "Warframes",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/9c/Trinity.png/revision/latest?cb=20221110214138",
+    "buildCreditCost": "25000",
+    "blueprintSource": "Bought from Market",
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "25000"
+    },
+    "resources": [
+      {
+        "name": "Trinity Neuroptics",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Trinity Chassis",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Trinity Systems",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Orokin Cell",
+        "quantity": 1,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": true,
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Ember Chassis",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 1000,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 300,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Ember Neuroptics",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Helmet.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Alloy Plate",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Neural Sensors",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Polymer Bundle",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Ember Systems",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e0/Systems.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 220,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Excalibur Chassis",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 1000,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 300,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Excalibur Neuroptics",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Helmet.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Alloy Plate",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Neural Sensors",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Polymer Bundle",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Excalibur Systems",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e0/Systems.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 220,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Loki Chassis",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 1000,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 300,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Loki Neuroptics",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Helmet.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Alloy Plate",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Neural Sensors",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Polymer Bundle",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Loki Systems",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e0/Systems.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 220,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Trinity Chassis",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 1000,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 300,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Trinity Neuroptics",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Helmet.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Alloy Plate",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Neural Sensors",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Polymer Bundle",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Trinity Systems",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e0/Systems.png",
+    "buildCreditCost": "15000",
+    "blueprintSource": "Boss Drop",
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 220,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Adramal Alloy",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/cc/AdramalAlloy.png/revision/latest?cb=20221215184412",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "1000"
+    },
+    "resources": [
+      {
+        "name": "Adramalium",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Travoride",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 600,
+        "type": "resource"
+      },
+      {
+        "name": "Lucent Teroglobe",
+        "quantity": 15,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Auroxium Alloy",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/fa/AuroxiumAlloy.png/revision/latest?cb=20221215023444",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "7500"
+    },
+    "resources": [
+      {
+        "name": "Auron",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Oxium",
+        "quantity": 600,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 5,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Axidrol Alloy",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/8e/AxidrolAlloy.png/revision/latest?cb=20221215030418",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "1000"
+    },
+    "resources": [
+      {
+        "name": "Axidite",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 10,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Cabochon Embolos",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c8/CabochonEmbolos.png/revision/latest?cb=20221215184644",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "8000"
+    },
+    "resources": [
+      {
+        "name": "Embolos",
+        "quantity": 3,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 3,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Coprite Alloy",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/84/CopriteAlloy.png/revision/latest?cb=20221215023515",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "2500"
+    },
+    "resources": [
+      {
+        "name": "Coprun",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 400,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 50,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Devolved Namalon",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/67/DevolvedNamalon.png/revision/latest?cb=20221215184513",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "2000"
+    },
+    "resources": [
+      {
+        "name": "Namalon",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Ferros",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 160,
+        "type": "resource"
+      },
+      {
+        "name": "Lucent Teroglobe",
+        "quantity": 15,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Esher Devar",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/02/EsherDevar.png/revision/latest?cb=20221215023745",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "2500"
+    },
+    "resources": [
+      {
+        "name": "Devar",
+        "quantity": 10,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 10,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Faceted Tiametrite",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/59/FacetedTiametrite.png/revision/latest?cb=20221215184814",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "1000"
+    },
+    "resources": [
+      {
+        "name": "Tiametrite",
+        "quantity": 10,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 10,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Fersteel Alloy",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/61/FersteelAlloy.png/revision/latest?cb=20221215023545",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "5000"
+    },
+    "resources": [
+      {
+        "name": "Ferros",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 400,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 200,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Goblite Tears",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/5a/GobliteTears.png/revision/latest?cb=20221215030634",
+    "buildCreditCost": "2500",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "2000"
+    },
+    "resources": [
+      {
+        "name": "Goblite",
+        "quantity": 10,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 10,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Heart Noctrul",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/1e/HeartNoctrul.png/revision/latest?cb=20221215030719",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "1000"
+    },
+    "resources": [
+      {
+        "name": "Noctrul",
+        "quantity": 10,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 10,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Heart Nyth",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c6/HeartNyth.png/revision/latest?cb=20221215023816",
+    "buildCreditCost": "10000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "10000"
+    },
+    "resources": [
+      {
+        "name": "Nyth",
+        "quantity": 3,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 3,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Hespazym Alloy",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/bb/HespazymAlloy.png/revision/latest?cb=20221215030448",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "4000"
+    },
+    "resources": [
+      {
+        "name": "Hesperon",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 300,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 2,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Marquise Thyst",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e1/MarquiseThyst.png/revision/latest?cb=20221215030819",
+    "buildCreditCost": "10000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "12000"
+    },
+    "resources": [
+      {
+        "name": "Thyst",
+        "quantity": 3,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 3,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Marquise Veridos",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/MarquiseVeridos.png/revision/latest?cb=20221215023916",
+    "buildCreditCost": "2500",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "5000"
+    },
+    "resources": [
+      {
+        "name": "Veridos",
+        "quantity": 10,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 10,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Purged Dagonic",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/26/PurgedDagonic.png/revision/latest?cb=20221215184558",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "1000"
+    },
+    "resources": [
+      {
+        "name": "Dagonic",
+        "quantity": 10,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 10,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Purified Heciphron",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/7/7f/PurifiedHeciphron.png/revision/latest?cb=20221215184658",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "2000"
+    },
+    "resources": [
+      {
+        "name": "Heciphron",
+        "quantity": 10,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 10,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Pyrotic Alloy",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/0b/PyroticAlloy.png/revision/latest?cb=20221215023615",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "500"
+    },
+    "resources": [
+      {
+        "name": "Pyrol",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Cryotic",
+        "quantity": 200,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 50,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Radian Sentirum",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/9c/RadianSentirum.png/revision/latest?cb=20221215023846",
+    "buildCreditCost": "10000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "10000"
+    },
+    "resources": [
+      {
+        "name": "Sentirum",
+        "quantity": 3,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 3,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Radiant Zodian",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/0d/RadiantZodian.png/revision/latest?cb=20221215030850",
+    "buildCreditCost": "10000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "8000"
+    },
+    "resources": [
+      {
+        "name": "Zodian",
+        "quantity": 3,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 3,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Smooth Phasmin",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/63/SmoothPhasmin.png/revision/latest?cb=20221215030734",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "1000"
+    },
+    "resources": [
+      {
+        "name": "Phasmin",
+        "quantity": 10,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 10,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Star Amarast",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/7/70/StarAmarast.png/revision/latest?cb=20221215030604",
+    "buildCreditCost": "5000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "4000"
+    },
+    "resources": [
+      {
+        "name": "Amarast",
+        "quantity": 6,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 6,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Star Crimzian",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/7/72/StarCrimzian.png/revision/latest?cb=20221215023715",
+    "buildCreditCost": "5000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "7500"
+    },
+    "resources": [
+      {
+        "name": "Crimzian",
+        "quantity": 6,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 6,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Stellated Necrathene",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/14/StellatedNecrathene.png/revision/latest?cb=20221215184728",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "4000"
+    },
+    "resources": [
+      {
+        "name": "Necrathene",
+        "quantity": 6,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 6,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Tear Azurite",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/93/TearAzurite.png/revision/latest?cb=20221215023645",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "500"
+    },
+    "resources": [
+      {
+        "name": "Azurite",
+        "quantity": 10,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 10,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Tempered Bapholite",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/91/TemperedBapholite.png/revision/latest?cb=20221215184428",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "1000"
+    },
+    "resources": [
+      {
+        "name": "Bapholite",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Pyrol",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Nano Spores",
+        "quantity": 1600,
+        "type": "resource"
+      },
+      {
+        "name": "Lucent Teroglobe",
+        "quantity": 15,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Thaumic Distillate",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/ab/ThaumicDistillate.png/revision/latest?cb=20221215184543",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "4000"
+    },
+    "resources": [
+      {
+        "name": "Thaumica",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Venerol",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Gallium",
+        "quantity": 4,
+        "type": "resource"
+      },
+      {
+        "name": "Lucent Teroglobe",
+        "quantity": 15,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Trapezium Xenorhast",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/8/88/TrapeziumXenorhast.png/revision/latest?cb=20221215184844",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "8000"
+    },
+    "resources": [
+      {
+        "name": "Xenorhast",
+        "quantity": 3,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 3,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Travocyte Alloy",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/4/47/TravocyteAlloy.png/revision/latest?cb=20221215030519",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "1000"
+    },
+    "resources": [
+      {
+        "name": "Travoride",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 100,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Venerdo Alloy",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/5a/VenerdoAlloy.png/revision/latest?cb=20221215030549",
+    "buildCreditCost": "1000",
+    "blueprintSource": "Sold by Syndicate",
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "2000"
+    },
+    "resources": [
+      {
+        "name": "Venerol",
+        "quantity": 20,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 300,
+        "type": "resource"
+      },
+      {
+        "name": "Gallium",
+        "quantity": 2,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 20,
+    "mastered": false,
+    "providesMastery": false,
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {}
+      }
+    ]
+  },
+  {
+    "name": "Antiserum Injector",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/ab/AntiserumInjector.png/revision/latest?cb=20230202212650",
+    "buildCreditCost": "30000",
+    "blueprintSources": [
+      {
+        "type": "Enemy Drop",
+        "details": {
+          "Enemy Name": "Infested Salvage Enemies"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Fieldron",
+        "quantity": 2,
+        "type": "item"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 6000,
+        "type": "resource"
+      },
+      {
+        "name": "Antiserum Injector Fragment",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Tellurium",
+        "quantity": 2,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Detonite Injector",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/dc/DetoniteInjector.png/revision/latest?cb=20221214230130",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Chem Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Detonite Ampule",
+        "quantity": 10,
+        "type": "resource"
+      },
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 250,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Fieldron",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c5/Fieldron.png/revision/latest?cb=20221214230148",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Energy Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Fieldron Sample",
+        "quantity": 10,
+        "type": "resource"
+      },
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 250,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Mutagen Mass",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c4/MutagenMass.png/revision/latest?cb=20221214230219",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Bio Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Mutagen Sample",
+        "quantity": 10,
+        "type": "resource"
+      },
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 250,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Synthula",
+    "category": "Other",
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/ea/Synthula.png/revision/latest?cb=20221214231236",
+    "buildCreditCost": "1000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "5000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "5000"
+    },
+    "resources": [
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Neurodes",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Gallium",
+        "quantity": 1,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  }
+]
