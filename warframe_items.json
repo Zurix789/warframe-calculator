@@ -1349,6 +1349,54 @@
     "providesMastery": false
   },
   {
+    "name": "Helminth Coalescent Segment",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/de/HelminthCoalescentSegment.png",
+    "buildCreditCost": "50000",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Cavia",
+          "Required Rank": "Rank 2",
+          "Credit Cost": ""
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "30000"
+    },
+    "resources": [
+      {
+        "name": "Stela",
+        "quantity": 50,
+        "type": "resource"
+      },
+      {
+        "name": "Echo Voca",
+        "quantity": 5,
+        "type": "resource"
+      },
+      {
+        "name": "Entrati Lanthorn",
+        "quantity": 5,
+        "type": "resource"
+      },
+      {
+        "name": "Necracoil",
+        "quantity": 25,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "Helminth Invigoration Segment",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/c/cc/HelminthInvigorationSegment.png",
@@ -1840,6 +1888,31 @@
         "type": "resource"
       }
     ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Melee Upgrade Segment",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/d9/MeleeUpgradeSegment.png",
+    "buildCreditCost": "0",
+    "blueprintSources": [
+      {
+        "type": "Reward from Quest",
+        "details": {
+          "Quest": "Whispers in the Walls"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [],
     "infiniteUses": false,
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
