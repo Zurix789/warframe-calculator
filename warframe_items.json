@@ -754,6 +754,48 @@
     "providesMastery": false
   },
   {
+    "name": "Archwing Launcher Segment",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/9c/ArchwingLauncherSegment.png",
+    "buildCreditCost": "100000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Grokdrul",
+        "quantity": 50,
+        "type": "resource"
+      },
+      {
+        "name": "Iradite",
+        "quantity": 50,
+        "type": "resource"
+      },
+      {
+        "name": "Oxium",
+        "quantity": 1200,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "Ash Chassis",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
@@ -1250,6 +1292,95 @@
       },
       {
         "name": "Repeller Systems",
+        "quantity": 2,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Kavat Incubator Upgrade Segment",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/a1/KavatIncubatorUpgradeSegment.png",
+    "buildCreditCost": "100000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Argon Crystal",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Kavat Genetic Code",
+        "quantity": 10,
+        "type": "resource"
+      },
+      {
+        "name": "Alloy Plate",
+        "quantity": 60000,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Landing Craft Foundry Segment",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/31/LandingCraftFoundrySegment.png",
+    "buildCreditCost": "100000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Argon Crystal",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 3000,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 800,
+        "type": "resource"
+      },
+      {
+        "name": "Tellurium",
         "quantity": 2,
         "type": "resource"
       }
