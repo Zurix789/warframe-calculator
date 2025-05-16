@@ -750,7 +750,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/c/cc/AdramalAlloy.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Neutral",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -782,13 +791,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Auroxium Alloy",
@@ -881,7 +884,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/c/c8/CabochonEmbolos.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Rank 3",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -898,13 +910,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 3,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Coprite Alloy",
@@ -1001,7 +1007,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/6/67/DevolvedNamalon.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Rank 1",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1033,13 +1048,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Esher Devar",
@@ -1079,7 +1088,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/5/59/FacetedTiametrite.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Neutral",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1096,13 +1114,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 10,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Fersteel Alloy",
@@ -1454,7 +1466,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/2/26/PurgedDagonic.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Neutral",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1471,20 +1492,23 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 10,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Purified Heciphron",
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/7/7f/PurifiedHeciphron.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Rank 1",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1501,13 +1525,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 10,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Pyrotic Alloy",
@@ -1722,7 +1740,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/1/14/StellatedNecrathene.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Rank 2",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1739,13 +1766,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 6,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Tear Azurite",
@@ -1785,7 +1806,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/9/91/TemperedBapholite.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Neutral",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1817,20 +1847,23 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Thaumic Distillate",
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/a/ab/ThaumicDistillate.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Rank 2",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1862,20 +1895,23 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Trapezium Xenorhast",
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/8/88/TrapeziumXenorhast.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Rank 3",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1892,13 +1928,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 3,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Travocyte Alloy",
