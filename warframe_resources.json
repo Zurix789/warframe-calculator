@@ -1962,6 +1962,30 @@
     "image": "https://static.wikia.nocookie.net/warframe/images/d/d7/Stela.png"
   },
   {
+    "name": "Bellow Voca",
+    "rarity": "Syndicate",
+    "locations": [
+      "Albrecht's Laboratories"
+    ],
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/9e/BellowVoca.png"
+  },
+  {
+    "name": "Echo Voca",
+    "rarity": "Syndicate",
+    "locations": [
+      "Albrecht's Laboratories"
+    ],
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/af/EchoVoca.png"
+  },
+  {
+    "name": "Shrill Voca",
+    "rarity": "Syndicate",
+    "locations": [
+      "Albrecht's Laboratories"
+    ],
+    "image": "https://static.wikia.nocookie.net/warframe/images/5/5f/ShrillVoca.png"
+  },
+  {
     "name": "Efervon Sample",
     "rarity": "Common",
     "locations": [
