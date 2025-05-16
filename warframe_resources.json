@@ -1753,6 +1753,22 @@
     "image": "https://static.wikia.nocookie.net/warframe/images/5/56/WaxenSebumDeposit.png"
   },
   {
+    "name": "Purple Velocipod Tag",
+    "rarity": "Other",
+    "locations": [
+      "Cambion Drift"
+    ],
+    "image": "https://static.wikia.nocookie.net/warframe/images/7/7a/PurpleVelocipodTag.png"
+  },
+  {
+    "name": "Vizier Predasite Tag",
+    "rarity": "Other",
+    "locations": [
+      "Cambion Drift"
+    ],
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e7/VizierPredasiteTag.png"
+  },
+  {
     "name": "Thrax Plasm",
     "rarity": "Uncommon",
     "locations": [
