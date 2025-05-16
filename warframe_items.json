@@ -838,7 +838,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/8/8e/AxidrolAlloy.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Solaris United",
+          "Required Rank": "Neutral",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -865,13 +874,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Cabochon Embolos",
@@ -1196,7 +1199,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/5/5a/GobliteTears.png",
     "buildCreditCost": "2500",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Solaris United",
+          "Required Rank": "Rank 1",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1213,20 +1225,23 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 10,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Heart Noctrul",
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/1/1e/HeartNoctrul.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Solaris United",
+          "Required Rank": "Neutral",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1243,13 +1258,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 10,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Heart Nyth",
@@ -1289,7 +1298,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/b/bb/HespazymAlloy.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Solaris United",
+          "Required Rank": "Rank 2",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1316,20 +1334,23 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Marquise Thyst",
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/e/e1/MarquiseThyst.png",
     "buildCreditCost": "10000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Solaris United",
+          "Required Rank": "Rank 4",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1346,13 +1367,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 3,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Marquise Veridos",
@@ -1575,7 +1590,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/0/0d/RadiantZodian.png",
     "buildCreditCost": "10000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Solaris United",
+          "Required Rank": "Rank 3",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1592,20 +1616,23 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 3,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Smooth Phasmin",
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/6/63/SmoothPhasmin.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Solaris United",
+          "Required Rank": "Neutral",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1622,20 +1649,23 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 10,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Star Amarast",
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/7/70/StarAmarast.png",
     "buildCreditCost": "5000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Solaris United",
+          "Required Rank": "Rank 2",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1652,13 +1682,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 6,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Star Crimzian",
@@ -1881,7 +1905,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/4/47/TravocyteAlloy.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Solaris United",
+          "Required Rank": "Neutral",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1908,20 +1941,23 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Venerdo Alloy",
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/5/5a/VenerdoAlloy.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Solaris United",
+          "Required Rank": "Rank 1",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1948,13 +1984,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Synthula",
