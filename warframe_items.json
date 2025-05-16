@@ -1303,6 +1303,148 @@
     "providesMastery": false
   },
   {
+    "name": "Helminth Archon Shard Segment",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/02/OrbiterSegment.png",
+    "buildCreditCost": "50000",
+    "blueprintSources": [
+      {
+        "type": "Reward from Quest",
+        "details": {
+          "Quest": "Veilbreaker"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Entrati Lanthorn",
+        "quantity": 2,
+        "type": "resource"
+      },
+      {
+        "name": "Devolved Namalon",
+        "quantity": 10,
+        "type": "item"
+      },
+      {
+        "name": "Sporulate Sac",
+        "quantity": 5,
+        "type": "resource"
+      },
+      {
+        "name": "Thrax Plasm",
+        "quantity": 50,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Helminth Invigoration Segment",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/cc/HelminthInvigorationSegment.png",
+    "buildCreditCost": "50000",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Rank 5",
+          "Credit Cost": ""
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "30000"
+    },
+    "resources": [
+      {
+        "name": "Vizier Predasite Tag",
+        "quantity": 5,
+        "type": "resource"
+      },
+      {
+        "name": "Tempered Bapholite",
+        "quantity": 20,
+        "type": "item"
+      },
+      {
+        "name": "Pustulent Cognitive Nodule",
+        "quantity": 10,
+        "type": "resource"
+      },
+      {
+        "name": "Pustulite",
+        "quantity": 15,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Helminth Segment",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/02/OrbiterSegment.png",
+    "buildCreditCost": "50000",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Entrati",
+          "Required Rank": "Rank 3",
+          "Credit Cost": ""
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Purple Velocipod Tag",
+        "quantity": 5,
+        "type": "resource"
+      },
+      {
+        "name": "Adramal Alloy",
+        "quantity": 20,
+        "type": "item"
+      },
+      {
+        "name": "Saturated Muscle Mass",
+        "quantity": 5,
+        "type": "resource"
+      },
+      {
+        "name": "Ganglion",
+        "quantity": 15,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "Incubator Power Core",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/1/1b/IncubatorPowerCore.png",
