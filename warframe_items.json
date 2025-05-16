@@ -369,6 +369,53 @@
     "providesMastery": true
   },
   {
+    "name": "100x Air Support Charges",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c7/AirSupportCharges.png",
+    "buildCreditCost": "40000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Ferrite",
+        "quantity": 12000,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 20000,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 10,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 7000,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "100x Cipher",
     "category": "Gear",
     "image": "https://static.wikia.nocookie.net/warframe/images/9/95/Cipher.png",
@@ -396,6 +443,50 @@
       {
         "name": "Nano Spores",
         "quantity": 36000,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "10x Air Support Charges",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c7/AirSupportCharges.png",
+    "buildCreditCost": "4000",
+    "blueprintSources": [
+      {
+        "type": "None",
+        "details": {}
+      }
+    ],
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Ferrite",
+        "quantity": 1200,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 2000,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 700,
         "type": "resource"
       }
     ],
