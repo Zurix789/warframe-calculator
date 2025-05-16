@@ -1303,6 +1303,53 @@
     "providesMastery": false
   },
   {
+    "name": "Incubator Power Core",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/1b/IncubatorPowerCore.png",
+    "buildCreditCost": "100000",
+    "blueprintSources": [
+      {
+        "type": "Junction Reward",
+        "details": {
+          "Junction": "Mars Junction"
+        }
+      },
+      {
+        "type": "Bought from Market",
+        "details": {
+          "Credit Cost": "50000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "50000"
+    },
+    "resources": [
+      {
+        "name": "Nano Spores",
+        "quantity": 4500,
+        "type": "resource"
+      },
+      {
+        "name": "Control Module",
+        "quantity": 2,
+        "type": "resource"
+      },
+      {
+        "name": "Argon Crystal",
+        "quantity": 1,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "Kavat Incubator Upgrade Segment",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/a/a1/KavatIncubatorUpgradeSegment.png",
