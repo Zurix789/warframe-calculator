@@ -369,53 +369,6 @@
     "providesMastery": true
   },
   {
-    "name": "100x Air Support Charges",
-    "category": "Gear",
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c7/AirSupportCharges.png",
-    "buildCreditCost": "40000",
-    "blueprintSources": [
-      {
-        "type": "Replicated from Lab",
-        "details": {
-          "Lab": "Tenno Lab",
-          "Credit Cost": "15000"
-        }
-      }
-    ],
-    "blueprintCost": {
-      "type": "Credits",
-      "resource": "",
-      "quantity": "15000"
-    },
-    "resources": [
-      {
-        "name": "Ferrite",
-        "quantity": 12000,
-        "type": "resource"
-      },
-      {
-        "name": "Salvage",
-        "quantity": 20000,
-        "type": "resource"
-      },
-      {
-        "name": "Morphics",
-        "quantity": 10,
-        "type": "resource"
-      },
-      {
-        "name": "Plastids",
-        "quantity": 7000,
-        "type": "resource"
-      }
-    ],
-    "infiniteUses": true,
-    "multiItemBlueprint": false,
-    "itemsPerBlueprint": 1,
-    "mastered": false,
-    "providesMastery": false
-  },
-  {
     "name": "100x Cipher",
     "category": "Gear",
     "image": "https://static.wikia.nocookie.net/warframe/images/9/95/Cipher.png",
@@ -443,50 +396,6 @@
       {
         "name": "Nano Spores",
         "quantity": 36000,
-        "type": "resource"
-      }
-    ],
-    "infiniteUses": true,
-    "multiItemBlueprint": false,
-    "itemsPerBlueprint": 1,
-    "mastered": false,
-    "providesMastery": false
-  },
-  {
-    "name": "10x Air Support Charges",
-    "category": "Gear",
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c7/AirSupportCharges.png",
-    "buildCreditCost": "4000",
-    "blueprintSources": [
-      {
-        "type": "None",
-        "details": {}
-      }
-    ],
-    "blueprintCost": {
-      "type": "",
-      "resource": "",
-      "quantity": 0
-    },
-    "resources": [
-      {
-        "name": "Ferrite",
-        "quantity": 1200,
-        "type": "resource"
-      },
-      {
-        "name": "Salvage",
-        "quantity": 2000,
-        "type": "resource"
-      },
-      {
-        "name": "Morphics",
-        "quantity": 1,
-        "type": "resource"
-      },
-      {
-        "name": "Plastids",
-        "quantity": 700,
         "type": "resource"
       }
     ],
@@ -569,6 +478,53 @@
     "providesMastery": false
   },
   {
+    "name": "Adrenal Stim",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/ae/AdrenalStim.png",
+    "buildCreditCost": "10000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "5000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "5000"
+    },
+    "resources": [
+      {
+        "name": "Synthula",
+        "quantity": 2,
+        "type": "item"
+      },
+      {
+        "name": "Alloy Plate",
+        "quantity": 1000,
+        "type": "resource"
+      },
+      {
+        "name": "Polymer Bundle",
+        "quantity": 1500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "Antiserum Injector",
     "category": "Gear",
     "image": "https://static.wikia.nocookie.net/warframe/images/a/ab/AntiserumInjector.png",
@@ -605,6 +561,189 @@
       {
         "name": "Tellurium",
         "quantity": 2,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Calcifin Stim",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/18/CalcifinStim.png",
+    "buildCreditCost": "10000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "5000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "5000"
+    },
+    "resources": [
+      {
+        "name": "Synthula",
+        "quantity": 2,
+        "type": "item"
+      },
+      {
+        "name": "Alloy Plate",
+        "quantity": 1500,
+        "type": "resource"
+      },
+      {
+        "name": "Polymer Bundle",
+        "quantity": 1000,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Clotra Stim",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/a9/ClotraStim.png",
+    "buildCreditCost": "10000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "5000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "5000"
+    },
+    "resources": [
+      {
+        "name": "Synthula",
+        "quantity": 2,
+        "type": "item"
+      },
+      {
+        "name": "Cryotic",
+        "quantity": 1500,
+        "type": "resource"
+      },
+      {
+        "name": "Nano Spores",
+        "quantity": 1000,
+        "type": "resource"
+      },
+      {
+        "name": "Circuits",
+        "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Loc-Pin",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/1/12/Loc-Pin.png",
+    "buildCreditCost": "4000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "5000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "5000"
+    },
+    "resources": [
+      {
+        "name": "Polymer Bundle",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Circuits",
+        "quantity": 200,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 100,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Refract Stim",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/97/RefractStim.png",
+    "buildCreditCost": "10000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "5000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "5000"
+    },
+    "resources": [
+      {
+        "name": "Synthula",
+        "quantity": 2,
+        "type": "item"
+      },
+      {
+        "name": "Nano Spores",
+        "quantity": 1500,
+        "type": "resource"
+      },
+      {
+        "name": "Cryotic",
+        "quantity": 1000,
+        "type": "resource"
+      },
+      {
+        "name": "Circuits",
+        "quantity": 500,
         "type": "resource"
       }
     ],
@@ -1070,6 +1209,48 @@
       {
         "name": "Plastids",
         "quantity": 220,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Gravimag",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/34/Gravimag.png",
+    "buildCreditCost": "25000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "35000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "35000"
+    },
+    "resources": [
+      {
+        "name": "Gyromag Systems",
+        "quantity": 10,
+        "type": "resource"
+      },
+      {
+        "name": "Atmo Systems",
+        "quantity": 5,
+        "type": "resource"
+      },
+      {
+        "name": "Repeller Systems",
+        "quantity": 2,
         "type": "resource"
       }
     ],
