@@ -230,6 +230,205 @@
     "providesMastery": false
   },
   {
+    "name": "Ash Chassis",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Defense",
+          "Location": "Pluto Proxima"
+        }
+      },
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Volatile",
+          "Location": "Pluto Proxima"
+        }
+      },
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Survival",
+          "Location": "Pluto Proxima"
+        }
+      },
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Exterminate",
+          "Location": "Pluto Proxima"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 1000,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 300,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Ash Neuroptics",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Helmet.png",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Defense",
+          "Location": "Neptune Proxima"
+        }
+      },
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Survival",
+          "Location": "Neptune Proxima"
+        }
+      },
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Volatile",
+          "Location": "Neptune Proxima"
+        }
+      },
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Exterminate",
+          "Location": "Neptune Proxima"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Alloy Plate",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Neural Sensors",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Polymer Bundle",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Ash Systems",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e0/Systems.png",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Defense",
+          "Location": "Venus Proxima"
+        }
+      },
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Volatile",
+          "Location": "Venus Proxima"
+        }
+      },
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Exterminate",
+          "Location": "Venus Proxima"
+        }
+      },
+      {
+        "type": "Mission Reward",
+        "details": {
+          "Mission Type": "Survival",
+          "Location": "Venus Proxima"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "Ember Chassis",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
