@@ -702,8 +702,8 @@
       }
     ],
     "infiniteUses": true,
-    "multiItemBlueprint": false,
-    "itemsPerBlueprint": 1,
+    "multiItemBlueprint": true,
+    "itemsPerBlueprint": 5,
     "mastered": false,
     "providesMastery": false
   },
@@ -787,6 +787,235 @@
       {
         "name": "Circuits",
         "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Squad Health Restore (Large) x10",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f7/LargeTeamHealPack.png",
+    "buildCreditCost": "9000",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Steel Meridian",
+          "Required Rank": "Rank 3",
+          "Credit Cost": ""
+        }
+      },
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "New Loka",
+          "Required Rank": "Rank 3",
+          "Credit Cost": ""
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Standing",
+      "resource": "",
+      "quantity": "25000"
+    },
+    "resources": [
+      {
+        "name": "Circuits",
+        "quantity": 600,
+        "type": "resource"
+      },
+      {
+        "name": "Nano Spores",
+        "quantity": 4000,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Squad Health Restore (Large) x100",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f7/LargeTeamHealPack.png",
+    "buildCreditCost": "90000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Bio Lab",
+          "Credit Cost": "250000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "250000"
+    },
+    "resources": [
+      {
+        "name": "Circuits",
+        "quantity": 6000,
+        "type": "resource"
+      },
+      {
+        "name": "Nano Spores",
+        "quantity": 40000,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Squad Health Restore (Medium)",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/9e/HealthTotemMediumBundle.png",
+    "buildCreditCost": "4000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Bio Lab",
+          "Credit Cost": "5000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "5000"
+    },
+    "resources": [
+      {
+        "name": "Ferrite",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Nano Spores",
+        "quantity": 600,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Squad Health Restore (Medium) x10",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/9e/HealthTotemMediumBundle.png",
+    "buildCreditCost": "9000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Bio Lab",
+          "Credit Cost": "250000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "250000"
+    },
+    "resources": [
+      {
+        "name": "Polymer Bundle",
+        "quantity": 450,
+        "type": "resource"
+      },
+      {
+        "name": "Nano Spores",
+        "quantity": 2700,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Squad Health Restore (Small)",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/2a/TeamHealRestore.png",
+    "buildCreditCost": "1000",
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {
+          "Credit Cost": "500"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "500"
+    },
+    "resources": [
+      {
+        "name": "Ferrite",
+        "quantity": 300,
+        "type": "resource"
+      },
+      {
+        "name": "Polymer Bundle",
+        "quantity": 50,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Squad Health Restore (Small) x10",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/2/2a/TeamHealRestore.png",
+    "buildCreditCost": "9000",
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {
+          "Credit Cost": "250000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "250000"
+    },
+    "resources": [
+      {
+        "name": "Nano Spores",
+        "quantity": 2700,
+        "type": "resource"
+      },
+      {
+        "name": "Polymer Bundle",
+        "quantity": 450,
         "type": "resource"
       }
     ],
