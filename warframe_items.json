@@ -184,6 +184,52 @@
     "providesMastery": true
   },
   {
+    "name": "Rhino",
+    "category": "Warframes",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c2/Rhino.png",
+    "buildCreditCost": "25000",
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {
+          "Credit Cost": "35000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "35000"
+    },
+    "resources": [
+      {
+        "name": "Rhino Neuroptics",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Rhino Chassis",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Rhino Systems",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Gallium",
+        "quantity": 1,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": true
+  },
+  {
     "name": "Trinity",
     "category": "Warframes",
     "image": "https://static.wikia.nocookie.net/warframe/images/9/9c/Trinity.png",
@@ -864,6 +910,139 @@
       {
         "name": "Plastids",
         "quantity": 220,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Rhino Chassis",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Jackal"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 1000,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 300,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Rhino Neuroptics",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Helmet.png",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Jackal"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Alloy Plate",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Polymer Bundle",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Rhino Systems",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e0/Systems.png",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Jackal"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Gallium",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 600,
         "type": "resource"
       }
     ],
