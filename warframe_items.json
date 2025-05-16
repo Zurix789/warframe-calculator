@@ -525,6 +525,53 @@
     "providesMastery": false
   },
   {
+    "name": "Antiserum Injector",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/ab/AntiserumInjector.png",
+    "buildCreditCost": "30000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Energy Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Fieldron",
+        "quantity": 2,
+        "type": "item"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 6000,
+        "type": "resource"
+      },
+      {
+        "name": "Antiserum Injector Fragment",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Tellurium",
+        "quantity": 2,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "Calcifin Stim",
     "category": "Gear",
     "image": "https://static.wikia.nocookie.net/warframe/images/1/18/CalcifinStim.png",
@@ -609,6 +656,48 @@
       {
         "name": "Circuits",
         "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Infested Catalyst",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/6/6c/InfestedCatalyst.png",
+    "buildCreditCost": "500",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Bio Lab",
+          "Credit Cost": "5000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "5000"
+    },
+    "resources": [
+      {
+        "name": "Plastids",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 2300,
+        "type": "resource"
+      },
+      {
+        "name": "Nano Spores",
+        "quantity": 1800,
         "type": "resource"
       }
     ],
@@ -3619,53 +3708,6 @@
       {
         "name": "Gallium",
         "quantity": 1,
-        "type": "resource"
-      }
-    ],
-    "infiniteUses": true,
-    "multiItemBlueprint": false,
-    "itemsPerBlueprint": 1,
-    "mastered": false,
-    "providesMastery": false
-  },
-  {
-    "name": "Antiserum Injector",
-    "category": "Gear",
-    "image": "https://static.wikia.nocookie.net/warframe/images/a/ab/AntiserumInjector.png",
-    "buildCreditCost": "30000",
-    "blueprintSources": [
-      {
-        "type": "Replicated from Lab",
-        "details": {
-          "Lab": "Energy Lab",
-          "Credit Cost": "15000"
-        }
-      }
-    ],
-    "blueprintCost": {
-      "type": "Credits",
-      "resource": "",
-      "quantity": "15000"
-    },
-    "resources": [
-      {
-        "name": "Fieldron",
-        "quantity": 2,
-        "type": "item"
-      },
-      {
-        "name": "Salvage",
-        "quantity": 6000,
-        "type": "resource"
-      },
-      {
-        "name": "Antiserum Injector Fragment",
-        "quantity": 500,
-        "type": "resource"
-      },
-      {
-        "name": "Tellurium",
-        "quantity": 2,
         "type": "resource"
       }
     ],
