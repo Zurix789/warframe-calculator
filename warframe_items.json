@@ -1705,6 +1705,48 @@
     "providesMastery": false
   },
   {
+    "name": "Nutrio Incubator Upgrade Segment",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/cb/NutrioIncubatorUpgradeSegment.png",
+    "buildCreditCost": "100000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Argon Crystal",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Incubator Power Core",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Oxium",
+        "quantity": 1200,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "Rhino Chassis",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
