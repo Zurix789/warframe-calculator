@@ -369,6 +369,115 @@
     "providesMastery": true
   },
   {
+    "name": "100x Cipher",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/95/Cipher.png",
+    "buildCreditCost": "90000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Ferrite",
+        "quantity": 36000,
+        "type": "resource"
+      },
+      {
+        "name": "Nano Spores",
+        "quantity": 36000,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "10x Cipher",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/95/Cipher.png",
+    "buildCreditCost": "9000",
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {
+          "Credit Cost": "250000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "250000"
+    },
+    "resources": [
+      {
+        "name": "Ferrite",
+        "quantity": 3600,
+        "type": "resource"
+      },
+      {
+        "name": "Nano Spores",
+        "quantity": 3600,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "1x Cipher",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/9/95/Cipher.png",
+    "buildCreditCost": "100",
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {
+          "Credit Cost": "500"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "500"
+    },
+    "resources": [
+      {
+        "name": "Ferrite",
+        "quantity": 400,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 400,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "Antiserum Injector",
     "category": "Gear",
     "image": "https://static.wikia.nocookie.net/warframe/images/a/ab/AntiserumInjector.png",
