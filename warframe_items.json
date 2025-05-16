@@ -180,6 +180,52 @@
     ]
   },
   {
+    "name": "Antiserum Injector",
+    "category": "Gear",
+    "image": "https://static.wikia.nocookie.net/warframe/images/a/ab/AntiserumInjector.png",
+    "buildCreditCost": "30000",
+    "blueprintSources": [
+      {
+        "type": "Enemy Drop",
+        "details": {
+          "Enemy Name": "Infested Salvage Enemies"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Fieldron",
+        "quantity": 2,
+        "type": "item"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 6000,
+        "type": "resource"
+      },
+      {
+        "name": "Antiserum Injector Fragment",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Tellurium",
+        "quantity": 2,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": true,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "Ember Chassis",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
@@ -749,7 +795,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/f/fa/AuroxiumAlloy.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Ostoron",
+          "Required Rank": "Rank 3",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -776,13 +831,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Axidrol Alloy",
@@ -859,7 +908,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/8/84/CopriteAlloy.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Ostoron",
+          "Required Rank": "Rank 1",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -886,13 +944,54 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Detonite Injector",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/dc/DetoniteInjector.png",
+    "buildCreditCost": "15000",
     "blueprintSources": [
       {
-        "type": "Sold by Syndicate",
-        "details": {}
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Chem Lab",
+          "Credit Cost": "15000"
+        }
       }
-    ]
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Detonite Ampule",
+        "quantity": 10,
+        "type": "resource"
+      },
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 250,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
   },
   {
     "name": "Devolved Namalon",
@@ -944,7 +1043,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/0/02/EsherDevar.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Ostoron",
+          "Required Rank": "Rank 1",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -961,13 +1069,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 10,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Faceted Tiametrite",
@@ -1004,7 +1106,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/6/61/FersteelAlloy.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Ostoron",
+          "Required Rank": "Rank 2",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1031,13 +1142,54 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Fieldron",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c5/Fieldron.png",
+    "buildCreditCost": "15000",
     "blueprintSources": [
       {
-        "type": "Sold by Syndicate",
-        "details": {}
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Energy Lab",
+          "Credit Cost": "15000"
+        }
       }
-    ]
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Fieldron Sample",
+        "quantity": 10,
+        "type": "resource"
+      },
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 250,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
   },
   {
     "name": "Goblite Tears",
@@ -1104,7 +1256,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/c/c6/HeartNyth.png",
     "buildCreditCost": "10000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Ostoron",
+          "Required Rank": "Rank 4",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1121,13 +1282,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 3,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Hespazym Alloy",
@@ -1204,7 +1359,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/3/37/MarquiseVeridos.png",
     "buildCreditCost": "2500",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Ostoron",
+          "Required Rank": "Rank 2",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1221,13 +1385,54 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 10,
     "mastered": false,
-    "providesMastery": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Mutagen Mass",
+    "category": "Crafting",
+    "image": "https://static.wikia.nocookie.net/warframe/images/c/c4/MutagenMass.png",
+    "buildCreditCost": "15000",
     "blueprintSources": [
       {
-        "type": "Sold by Syndicate",
-        "details": {}
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Bio Lab",
+          "Credit Cost": "15000"
+        }
       }
-    ]
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Mutagen Sample",
+        "quantity": 10,
+        "type": "resource"
+      },
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 250,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
   },
   {
     "name": "Purged Dagonic",
@@ -1294,7 +1499,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/0/0b/PyroticAlloy.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Ostoron",
+          "Required Rank": "Neutral",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1321,20 +1535,23 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 20,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Radian Sentirum",
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/9/9c/RadianSentirum.png",
     "buildCreditCost": "10000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Ostoron",
+          "Required Rank": "Rank 4",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1351,13 +1568,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 3,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Radiant Zodian",
@@ -1454,7 +1665,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/7/72/StarCrimzian.png",
     "buildCreditCost": "5000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Ostoron",
+          "Required Rank": "Rank 3",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1471,13 +1691,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 6,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Stellated Necrathene",
@@ -1514,7 +1728,16 @@
     "category": "Crafting",
     "image": "https://static.wikia.nocookie.net/warframe/images/9/93/TearAzurite.png",
     "buildCreditCost": "1000",
-    "blueprintSource": "Sold by Syndicate",
+    "blueprintSources": [
+      {
+        "type": "Sold by Syndicate",
+        "details": {
+          "Syndicate": "Ostoron",
+          "Required Rank": "Neutral",
+          "Credit Cost": ""
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Standing",
       "resource": "",
@@ -1531,13 +1754,7 @@
     "multiItemBlueprint": true,
     "itemsPerBlueprint": 10,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Sold by Syndicate",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Tempered Bapholite",
@@ -1738,193 +1955,6 @@
         "details": {}
       }
     ]
-  },
-  {
-    "name": "Antiserum Injector",
-    "category": "Gear",
-    "image": "https://static.wikia.nocookie.net/warframe/images/a/ab/AntiserumInjector.png",
-    "buildCreditCost": "30000",
-    "blueprintSources": [
-      {
-        "type": "Enemy Drop",
-        "details": {
-          "Enemy Name": "Infested Salvage Enemies"
-        }
-      }
-    ],
-    "blueprintCost": {
-      "type": "Credits",
-      "resource": "",
-      "quantity": "15000"
-    },
-    "resources": [
-      {
-        "name": "Fieldron",
-        "quantity": 2,
-        "type": "item"
-      },
-      {
-        "name": "Salvage",
-        "quantity": 6000,
-        "type": "resource"
-      },
-      {
-        "name": "Antiserum Injector Fragment",
-        "quantity": 500,
-        "type": "resource"
-      },
-      {
-        "name": "Tellurium",
-        "quantity": 2,
-        "type": "resource"
-      }
-    ],
-    "infiniteUses": true,
-    "multiItemBlueprint": false,
-    "itemsPerBlueprint": 1,
-    "mastered": false,
-    "providesMastery": false
-  },
-  {
-    "name": "Detonite Injector",
-    "category": "Crafting",
-    "image": "https://static.wikia.nocookie.net/warframe/images/d/dc/DetoniteInjector.png",
-    "buildCreditCost": "15000",
-    "blueprintSources": [
-      {
-        "type": "Replicated from Lab",
-        "details": {
-          "Lab": "Chem Lab",
-          "Credit Cost": "15000"
-        }
-      }
-    ],
-    "blueprintCost": {
-      "type": "Credits",
-      "resource": "",
-      "quantity": "15000"
-    },
-    "resources": [
-      {
-        "name": "Detonite Ampule",
-        "quantity": 10,
-        "type": "resource"
-      },
-      {
-        "name": "Control Module",
-        "quantity": 1,
-        "type": "resource"
-      },
-      {
-        "name": "Salvage",
-        "quantity": 500,
-        "type": "resource"
-      },
-      {
-        "name": "Plastids",
-        "quantity": 250,
-        "type": "resource"
-      }
-    ],
-    "infiniteUses": false,
-    "multiItemBlueprint": false,
-    "itemsPerBlueprint": 1,
-    "mastered": false,
-    "providesMastery": false
-  },
-  {
-    "name": "Fieldron",
-    "category": "Crafting",
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c5/Fieldron.png",
-    "buildCreditCost": "15000",
-    "blueprintSources": [
-      {
-        "type": "Replicated from Lab",
-        "details": {
-          "Lab": "Energy Lab",
-          "Credit Cost": "15000"
-        }
-      }
-    ],
-    "blueprintCost": {
-      "type": "Credits",
-      "resource": "",
-      "quantity": "15000"
-    },
-    "resources": [
-      {
-        "name": "Fieldron Sample",
-        "quantity": 10,
-        "type": "resource"
-      },
-      {
-        "name": "Control Module",
-        "quantity": 1,
-        "type": "resource"
-      },
-      {
-        "name": "Salvage",
-        "quantity": 500,
-        "type": "resource"
-      },
-      {
-        "name": "Plastids",
-        "quantity": 250,
-        "type": "resource"
-      }
-    ],
-    "infiniteUses": false,
-    "multiItemBlueprint": false,
-    "itemsPerBlueprint": 1,
-    "mastered": false,
-    "providesMastery": false
-  },
-  {
-    "name": "Mutagen Mass",
-    "category": "Crafting",
-    "image": "https://static.wikia.nocookie.net/warframe/images/c/c4/MutagenMass.png",
-    "buildCreditCost": "15000",
-    "blueprintSources": [
-      {
-        "type": "Replicated from Lab",
-        "details": {
-          "Lab": "Bio Lab",
-          "Credit Cost": "15000"
-        }
-      }
-    ],
-    "blueprintCost": {
-      "type": "Credits",
-      "resource": "",
-      "quantity": "15000"
-    },
-    "resources": [
-      {
-        "name": "Mutagen Sample",
-        "quantity": 10,
-        "type": "resource"
-      },
-      {
-        "name": "Control Module",
-        "quantity": 1,
-        "type": "resource"
-      },
-      {
-        "name": "Salvage",
-        "quantity": 500,
-        "type": "resource"
-      },
-      {
-        "name": "Plastids",
-        "quantity": 250,
-        "type": "resource"
-      }
-    ],
-    "infiniteUses": false,
-    "multiItemBlueprint": false,
-    "itemsPerBlueprint": 1,
-    "mastered": false,
-    "providesMastery": false
   },
   {
     "name": "Synthula",
