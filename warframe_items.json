@@ -4,7 +4,14 @@
     "category": "Warframes",
     "image": "https://static.wikia.nocookie.net/warframe/images/3/38/Ember.png",
     "buildCreditCost": "25000",
-    "blueprintSource": "Bought from Market",
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {
+          "Credit Cost": "25000"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Credits",
       "resource": "",
@@ -36,20 +43,21 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": true,
-    "blueprintSources": [
-      {
-        "type": "Bought from Market",
-        "details": {}
-      }
-    ]
+    "providesMastery": true
   },
   {
     "name": "Excalibur",
     "category": "Warframes",
     "image": "https://static.wikia.nocookie.net/warframe/images/f/fa/Excalibur.png",
     "buildCreditCost": "25000",
-    "blueprintSource": "Bought from Market",
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {
+          "Credit Cost": "35000"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Credits",
       "resource": "",
@@ -81,20 +89,21 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": true,
-    "blueprintSources": [
-      {
-        "type": "Bought from Market",
-        "details": {}
-      }
-    ]
+    "providesMastery": true
   },
   {
     "name": "Loki",
     "category": "Warframes",
     "image": "https://static.wikia.nocookie.net/warframe/images/f/fe/Loki.png",
     "buildCreditCost": "25000",
-    "blueprintSource": "Bought from Market",
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {
+          "Credit Cost": "35000"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Credits",
       "resource": "",
@@ -126,20 +135,21 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": true,
-    "blueprintSources": [
-      {
-        "type": "Bought from Market",
-        "details": {}
-      }
-    ]
+    "providesMastery": true
   },
   {
     "name": "Trinity",
     "category": "Warframes",
     "image": "https://static.wikia.nocookie.net/warframe/images/9/9c/Trinity.png",
     "buildCreditCost": "25000",
-    "blueprintSource": "Bought from Market",
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {
+          "Credit Cost": "25000"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "Credits",
       "resource": "",
@@ -171,13 +181,7 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": true,
-    "blueprintSources": [
-      {
-        "type": "Bought from Market",
-        "details": {}
-      }
-    ]
+    "providesMastery": true
   },
   {
     "name": "Antiserum Injector",
@@ -230,11 +234,18 @@
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "General Sargas Ruk"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -257,24 +268,25 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Ember Neuroptics",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Helmet.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "General Sargas Ruk"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -302,24 +314,25 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Ember Systems",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/e/e0/Systems.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "General Sargas Ruk"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -347,24 +360,25 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Excalibur Chassis",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Lieutenant Lech Kril"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -387,24 +401,25 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Excalibur Neuroptics",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Helmet.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Lieutenant Lech Kril"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -432,24 +447,25 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Excalibur Systems",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/e/e0/Systems.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Lieutenant Lech Kril"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -477,24 +493,25 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Loki Chassis",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Hyena Pack"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -517,24 +534,25 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Loki Neuroptics",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Helmet.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Hyena Pack"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -562,24 +580,25 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Loki Systems",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/e/e0/Systems.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Hyena Pack"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -607,24 +626,25 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Trinity Chassis",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Ambulas"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -647,24 +667,25 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Trinity Neuroptics",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Helmet.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Ambulas"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -692,24 +713,25 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Trinity Systems",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/e/e0/Systems.png",
     "buildCreditCost": "15000",
-    "blueprintSource": "Boss Drop",
+    "blueprintSources": [
+      {
+        "type": "Boss Drop",
+        "details": {
+          "Boss": "Ambulas"
+        }
+      }
+    ],
     "blueprintCost": {
       "type": "",
       "resource": "",
-      "quantity": 0
+      "quantity": "0"
     },
     "resources": [
       {
@@ -737,13 +759,7 @@
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
     "mastered": false,
-    "providesMastery": false,
-    "blueprintSources": [
-      {
-        "type": "Boss Drop",
-        "details": {}
-      }
-    ]
+    "providesMastery": false
   },
   {
     "name": "Adramal Alloy",
