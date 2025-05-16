@@ -1747,6 +1747,52 @@
     "providesMastery": false
   },
   {
+    "name": "Personal Quarters Segment",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/02/OrbiterSegment.png",
+    "buildCreditCost": "100000",
+    "blueprintSources": [
+      {
+        "type": "Reward from Quest",
+        "details": {
+          "Quest": "The War Within"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [
+      {
+        "name": "Argon Crystal",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 3000,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 800,
+        "type": "resource"
+      },
+      {
+        "name": "Tellurium",
+        "quantity": 2,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
     "name": "Rhino Chassis",
     "category": "Component",
     "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
@@ -2006,6 +2052,31 @@
         "type": "resource"
       }
     ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Void Relic Segment",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/0/02/OrbiterSegment.png",
+    "buildCreditCost": "0",
+    "blueprintSources": [
+      {
+        "type": "Junction Reward",
+        "details": {
+          "Junction": "Mars Junction"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "",
+      "resource": "",
+      "quantity": 0
+    },
+    "resources": [],
     "infiniteUses": false,
     "multiItemBlueprint": false,
     "itemsPerBlueprint": 1,
