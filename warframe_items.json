@@ -1,5 +1,51 @@
 [
   {
+    "name": "Ash",
+    "category": "Warframes",
+    "image": "https://static.wikia.nocookie.net/warframe/images/b/b1/Ash.png",
+    "buildCreditCost": "25000",
+    "blueprintSources": [
+      {
+        "type": "Bought from Market",
+        "details": {
+          "Credit Cost": "35000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "35000"
+    },
+    "resources": [
+      {
+        "name": "Ash Chassis",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Ash Neuroptics",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Ash Systems",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Orokin Cell",
+        "quantity": 1,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": true
+  },
+  {
     "name": "Ember",
     "category": "Warframes",
     "image": "https://static.wikia.nocookie.net/warframe/images/3/38/Ember.png",
