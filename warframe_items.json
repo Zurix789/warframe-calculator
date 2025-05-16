@@ -322,6 +322,53 @@
     "providesMastery": true
   },
   {
+    "name": "Volt",
+    "category": "Warframes",
+    "image": "https://static.wikia.nocookie.net/warframe/images/f/f5/Volt.png",
+    "buildCreditCost": "25000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "35000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "35000"
+    },
+    "resources": [
+      {
+        "name": "Volt Neuroptics",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Volt Chassis",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Volt Systems",
+        "quantity": 1,
+        "type": "item"
+      },
+      {
+        "name": "Orokin Cell",
+        "quantity": 1,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": true
+  },
+  {
     "name": "Antiserum Injector",
     "category": "Gear",
     "image": "https://static.wikia.nocookie.net/warframe/images/a/ab/AntiserumInjector.png",
@@ -1335,6 +1382,142 @@
       "type": "",
       "resource": "",
       "quantity": "0"
+    },
+    "resources": [
+      {
+        "name": "Control Module",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Salvage",
+        "quantity": 500,
+        "type": "resource"
+      },
+      {
+        "name": "Plastids",
+        "quantity": 220,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Volt Chassis",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/d/dd/Chassis.png",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Morphics",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Ferrite",
+        "quantity": 1000,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 300,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Volt Neuroptics",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/3/37/Helmet.png",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
+    },
+    "resources": [
+      {
+        "name": "Alloy Plate",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Neural Sensors",
+        "quantity": 1,
+        "type": "resource"
+      },
+      {
+        "name": "Polymer Bundle",
+        "quantity": 150,
+        "type": "resource"
+      },
+      {
+        "name": "Rubedo",
+        "quantity": 500,
+        "type": "resource"
+      }
+    ],
+    "infiniteUses": false,
+    "multiItemBlueprint": false,
+    "itemsPerBlueprint": 1,
+    "mastered": false,
+    "providesMastery": false
+  },
+  {
+    "name": "Volt Systems",
+    "category": "Component",
+    "image": "https://static.wikia.nocookie.net/warframe/images/e/e0/Systems.png",
+    "buildCreditCost": "15000",
+    "blueprintSources": [
+      {
+        "type": "Replicated from Lab",
+        "details": {
+          "Lab": "Tenno Lab",
+          "Credit Cost": "15000"
+        }
+      }
+    ],
+    "blueprintCost": {
+      "type": "Credits",
+      "resource": "",
+      "quantity": "15000"
     },
     "resources": [
       {
